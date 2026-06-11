@@ -9,7 +9,7 @@ import tailwindcss from '@tailwindcss/vite';
 // https://astro.build/config
 export default defineConfig({
   // ⚠️ Troque pelo domínio real antes do deploy na Vercel
-  site: 'https://seudominio.com.br',
+  site: 'https://blog-renda-extra.vercel.app',
 
   integrations: [mdx(), sitemap()],
 
