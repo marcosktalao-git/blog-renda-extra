@@ -1,0 +1,84 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import { SITE_TITLE } from '../consts';
+---
+
+<BaseLayout
+	title={`Contato | ${SITE_TITLE}`}
+	description="Entre em contato para dúvidas, parcerias ou sugestões de conteúdo."
+>
+	<section class="mx-auto max-w-3xl px-4 py-16 sm:px-6 lg:px-8 lg:py-20">
+		<header class="mb-12">
+			<p class="text-sm font-semibold tracking-widest text-accent uppercase">Contato</p>
+			<h1 class="mt-3 font-serif text-3xl font-semibold text-fg sm:text-4xl">Fale comigo</h1>
+			<p class="mt-4 text-lg text-muted">
+				Dúvidas, sugestões de tema ou propostas de parceria — fico feliz em ouvir.
+			</p>
+		</header>
+
+		<div class="space-y-8">
+			<div class="rounded-xl border border-border bg-bg-card p-6">
+				<p class="text-sm font-semibold text-fg">E-mail</p>
+				<!-- ⚠️ Troque pelo seu e-mail real antes de publicar -->
+				<a href="mailto:contato@seudominio.com.br" class="mt-1 text-accent">
+					contato@seudominio.com.br
+				</a>
+			</div>
+
+			<!--
+				Formulário estático — para receber mensagens de verdade, conecte a um serviço como
+				Formspree, Basin ou Netlify Forms. Exemplo com Formspree:
+				action="https://formspree.io/f/SEU_ID"
+			-->
+			<form
+				class="space-y-5 rounded-xl border border-border bg-bg-card p-6 sm:p-8"
+				method="POST"
+				action="#"
+			>
+				<div>
+					<label for="nome" class="mb-1.5 block text-sm font-medium text-fg">Nome</label>
+					<input
+						type="text"
+						id="nome"
+						name="nome"
+						required
+						class="w-full rounded-lg border border-border bg-bg-elevated px-4 py-2.5 text-fg outline-none transition-colors focus:border-accent"
+						placeholder="Seu nome"
+					/>
+				</div>
+				<div>
+					<label for="email" class="mb-1.5 block text-sm font-medium text-fg">E-mail</label>
+					<input
+						type="email"
+						id="email"
+						name="email"
+						required
+						class="w-full rounded-lg border border-border bg-bg-elevated px-4 py-2.5 text-fg outline-none transition-colors focus:border-accent"
+						placeholder="seu@email.com"
+					/>
+				</div>
+				<div>
+					<label for="mensagem" class="mb-1.5 block text-sm font-medium text-fg">Mensagem</label>
+					<textarea
+						id="mensagem"
+						name="mensagem"
+						rows="5"
+						required
+						class="w-full resize-y rounded-lg border border-border bg-bg-elevated px-4 py-2.5 text-fg outline-none transition-colors focus:border-accent"
+						placeholder="Como posso ajudar?"
+					></textarea>
+				</div>
+				<button
+					type="submit"
+					class="rounded-lg bg-accent px-6 py-3 text-sm font-semibold text-bg transition-colors hover:bg-accent-hover"
+				>
+					Enviar mensagem
+				</button>
+				<p class="text-xs text-subtle">
+					⚠️ O formulário ainda não está conectado a um serviço de envio. Configure Formspree ou
+					similar antes de publicar.
+				</p>
+			</form>
+		</div>
+	</section>
+</BaseLayout>

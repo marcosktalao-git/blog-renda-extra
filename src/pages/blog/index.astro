@@ -1,0 +1,28 @@
+---
+import PostCard from '../../components/PostCard.astro';
+import { getCollection } from 'astro:content';
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import { SITE_TITLE } from '../../consts';
+
+const posts = (await getCollection('blog')).sort(
+	(a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf(),
+);
+---
+
+<BaseLayout
+	title={`Artigos | ${SITE_TITLE}`}
+	description="Todos os artigos sobre renda extra, produto digital, afiliados e como sair da CLT."
+>
+	<section class="mx-auto max-w-6xl px-4 py-16 sm:px-6 lg:px-8 lg:py-20">
+		<header class="mb-12 max-w-2xl">
+			<h1 class="font-serif text-3xl font-semibold text-fg sm:text-4xl">Artigos</h1>
+			<p class="mt-4 text-lg text-muted">
+				Guia prático para CLTs que buscam uma segunda fonte de renda — sem complicação.
+			</p>
+		</header>
+
+		<div class="grid gap-6 sm:grid-cols-2 lg:grid-cols-3">
+			{posts.map((post) => <PostCard post={post} />)}
+		</div>
+	</section>
+</BaseLayout>

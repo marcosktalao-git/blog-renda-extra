@@ -1,0 +1,60 @@
+---
+import '../styles/global.css';
+import type { ImageMetadata } from 'astro';
+import Footer from '../components/Footer.astro';
+import Header from '../components/Header.astro';
+import SEO from '../components/SEO.astro';
+import { SITE_DESCRIPTION, SITE_TITLE } from '../consts';
+import type { ArticleSeoData, BreadcrumbItem, SeoType } from '../utils/seo';
+
+interface Props {
+	title: string;
+	description?: string;
+	headline?: string;
+	image?: ImageMetadata;
+	type?: SeoType;
+	keywords?: string[];
+	article?: ArticleSeoData;
+	breadcrumbs?: BreadcrumbItem[];
+}
+
+const { title, description, headline, image, type, keywords, article, breadcrumbs } = Astro.props;
+---
+
+<!doctype html>
+<html lang="pt-BR">
+	<head>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width,initial-scale=1" />
+		<meta name="robots" content="index, follow" />
+		<link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+		<link rel="icon" href="/favicon.ico" />
+		<link rel="sitemap" href="/sitemap-index.xml" />
+		<link
+			rel="alternate"
+			type="application/rss+xml"
+			title={SITE_TITLE}
+			href={new URL('rss.xml', Astro.site)}
+		/>
+		<meta name="generator" content={Astro.generator} />
+		<link rel="preconnect" href="https://fonts.googleapis.com" />
+		<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+		<SEO
+			title={title}
+			headline={headline}
+			description={description ?? SITE_DESCRIPTION}
+			image={image}
+			type={type}
+			keywords={keywords}
+			article={article}
+			breadcrumbs={breadcrumbs}
+		/>
+	</head>
+	<body class="min-h-screen flex flex-col">
+		<Header />
+		<main class="flex-1 pt-16">
+			<slot />
+		</main>
+		<Footer />
+	</body>
+</html>

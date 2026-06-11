@@ -1,0 +1,165 @@
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans:ital,opsz,wght@0,9..40,400;0,9..40,500;0,9..40,600;0,9..40,700;1,9..40,400&family=Lora:ital,wght@0,400;0,500;0,600;0,700;1,400&display=swap');
+@import 'tailwindcss';
+
+/* ── Design tokens: editorial escuro + acento laranja ── */
+@theme {
+	--font-serif: 'Lora', Georgia, 'Times New Roman', serif;
+	--font-sans: 'DM Sans', system-ui, -apple-system, sans-serif;
+
+	--color-bg: #0f1117;
+	--color-bg-elevated: #171a23;
+	--color-bg-card: #1e222d;
+	--color-border: #2a2f3d;
+	--color-border-subtle: #232735;
+
+	--color-fg: #eceef2;
+	--color-muted: #949bab;
+	--color-subtle: #6b7289;
+
+	--color-accent: #f97316;
+	--color-accent-hover: #fb923c;
+	--color-accent-muted: #c2410c;
+	--color-accent-subtle: rgba(249, 115, 22, 0.12);
+
+	--width-reading: 68ch;
+}
+
+@layer base {
+	html {
+		@apply scroll-smooth;
+	}
+
+	body {
+		@apply bg-bg font-sans text-fg antialiased;
+		font-size: 1.0625rem;
+		line-height: 1.75;
+	}
+
+	h1,
+	h2,
+	h3,
+	h4,
+	h5,
+	h6 {
+		@apply font-serif leading-tight text-fg;
+	}
+
+	a {
+		@apply text-accent transition-colors duration-200;
+	}
+
+	a:hover {
+		@apply text-accent-hover;
+	}
+
+	img {
+		@apply h-auto max-w-full;
+	}
+
+	code {
+		@apply rounded bg-bg-card px-1.5 py-0.5 text-sm text-accent-hover;
+	}
+
+	pre {
+		@apply overflow-x-auto rounded-lg border border-border bg-bg-elevated p-4;
+	}
+
+	pre > code {
+		@apply bg-transparent p-0 text-fg;
+	}
+
+	blockquote {
+		@apply border-l-4 border-accent py-1 pl-5 font-serif text-lg text-muted italic;
+	}
+
+	hr {
+		@apply border-border;
+	}
+}
+
+@layer utilities {
+	.text-balance {
+		text-wrap: balance;
+	}
+
+	.reading-width {
+		max-width: var(--width-reading);
+	}
+
+	.hero-gradient {
+		background:
+			radial-gradient(ellipse 80% 60% at 50% -10%, rgba(249, 115, 22, 0.15), transparent),
+			var(--color-bg);
+	}
+
+	.line-clamp-2 {
+		display: -webkit-box;
+		-webkit-line-clamp: 2;
+		-webkit-box-orient: vertical;
+		overflow: hidden;
+	}
+
+	/* Prose editorial — artigos (~68ch) */
+	.prose-custom {
+		@apply text-fg;
+		max-width: var(--width-reading);
+	}
+
+	.prose-custom > * + * {
+		@apply mt-5;
+	}
+
+	.prose-custom h2 {
+		@apply mt-12 mb-4 font-serif text-2xl font-semibold text-fg;
+	}
+
+	.prose-custom h3 {
+		@apply mt-8 mb-3 font-serif text-xl font-semibold text-fg;
+	}
+
+	.prose-custom p {
+		@apply leading-relaxed text-muted;
+	}
+
+	.prose-custom strong {
+		@apply font-semibold text-fg;
+	}
+
+	.prose-custom ul,
+	.prose-custom ol {
+		@apply space-y-2 pl-6 text-muted;
+	}
+
+	.prose-custom ul {
+		@apply list-disc;
+	}
+
+	.prose-custom ol {
+		@apply list-decimal;
+	}
+
+	.prose-custom li::marker {
+		@apply text-accent;
+	}
+
+	.prose-custom a {
+		@apply font-medium underline decoration-accent/40 underline-offset-2 hover:decoration-accent;
+	}
+
+	.prose-custom hr {
+		@apply my-10;
+	}
+}
+
+.sr-only {
+	border: 0;
+	padding: 0;
+	margin: 0;
+	position: absolute !important;
+	height: 1px;
+	width: 1px;
+	overflow: hidden;
+	clip: rect(1px, 1px, 1px, 1px);
+	clip-path: inset(50%);
+	white-space: nowrap;
+}

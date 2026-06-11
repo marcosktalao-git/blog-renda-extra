@@ -1,0 +1,43 @@
+---
+interface Props {
+	title?: string;
+	description?: string;
+	buttonText?: string;
+	buttonUrl?: string;
+}
+
+const {
+	title = 'Ebook gratuito: 7 formas de renda extra para CLT',
+	description = 'Baixe o guia prático e comece ainda esta semana — sem precisar aparecer na internet.',
+	buttonText = 'Quero o ebook grátis',
+	buttonUrl = '#lead-capture',
+} = Astro.props;
+---
+
+<section
+	class="my-12 overflow-hidden rounded-xl border border-border bg-bg-card"
+	aria-label="Captura de lead"
+>
+	<div class="grid gap-0 md:grid-cols-5">
+		<div class="bg-accent/10 p-8 md:col-span-2 md:flex md:items-center md:justify-center">
+			<div class="text-center md:text-left">
+				<span class="text-5xl" aria-hidden="true">📘</span>
+				<p class="mt-3 text-xs font-semibold tracking-widest text-accent uppercase">Ebook grátis</p>
+			</div>
+		</div>
+		<div class="p-8 md:col-span-3">
+			<h3 class="font-serif text-xl font-semibold text-fg sm:text-2xl">{title}</h3>
+			<p class="mt-3 text-sm leading-relaxed text-muted">{description}</p>
+			<!--
+				LEAD CAPTURE — conecte ao seu serviço de e-mail (MailerLite, ConvertKit, etc.)
+				Substitua buttonUrl pelo link da landing page ou use um formulário embed aqui.
+			-->
+			<a
+				href={buttonUrl}
+				class="mt-5 inline-flex items-center rounded-lg bg-accent px-5 py-2.5 text-sm font-semibold text-bg no-underline transition-colors hover:bg-accent-hover"
+			>
+				{buttonText}
+			</a>
+		</div>
+	</div>
+</section>

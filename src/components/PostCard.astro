@@ -1,0 +1,61 @@
+---
+import { Image } from 'astro:assets';
+import type { CollectionEntry } from 'astro:content';
+import FormattedDate from './FormattedDate.astro';
+
+interface Props {
+	post: CollectionEntry<'blog'>;
+	featured?: boolean;
+}
+
+const { post, featured = false } = Astro.props;
+const { title, description, pubDate, heroImage, tags } = post.data;
+---
+
+<article
+	class:list={[
+		'group overflow-hidden rounded-xl border border-border bg-bg-card transition-all duration-300 hover:border-accent/40 hover:shadow-[0_8px_30px_rgba(249,115,22,0.08)]',
+		{ 'md:col-span-2 lg:col-span-2': featured },
+	]}
+>
+	<a href={`/blog/${post.id}/`} class="block h-full no-underline">
+		{
+			heroImage && (
+				<div class:list={['overflow-hidden', featured ? 'aspect-[21/9]' : 'aspect-[16/10]']}>
+					<Image
+						src={heroImage}
+						alt=""
+						width={featured ? 900 : 600}
+						height={featured ? 385 : 375}
+						class="h-full w-full object-cover transition-transform duration-500 group-hover:scale-[1.03]"
+					/>
+				</div>
+			)
+		}
+		<div class="flex flex-col gap-3 p-5 sm:p-6">
+			{
+				tags && tags.length > 0 && (
+					<div class="flex flex-wrap gap-2">
+						{tags.slice(0, 2).map((tag) => (
+							<span class="rounded-full bg-accent-subtle px-2.5 py-0.5 text-xs font-medium text-accent">
+								{tag}
+							</span>
+						))}
+					</div>
+				)
+			}
+			<h2
+				class:list={[
+					'font-serif font-semibold text-fg transition-colors group-hover:text-accent',
+					featured ? 'text-2xl sm:text-3xl' : 'text-xl',
+				]}
+			>
+				{title}
+			</h2>
+			<p class="line-clamp-2 text-sm leading-relaxed text-muted">{description}</p>
+			<time class="mt-auto text-xs text-subtle">
+				<FormattedDate date={pubDate} />
+			</time>
+		</div>
+	</a>
+</article>

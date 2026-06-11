@@ -1,0 +1,83 @@
+---
+import PostCard from '../components/PostCard.astro';
+import { getCollection } from 'astro:content';
+import BaseLayout from '../layouts/BaseLayout.astro';
+import { SITE_DESCRIPTION, SITE_TITLE } from '../consts';
+
+const posts = (await getCollection('blog')).sort(
+	(a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf(),
+);
+const [featured, ...rest] = posts;
+---
+
+<BaseLayout title={SITE_TITLE} description={SITE_DESCRIPTION}>
+	<!-- Hero -->
+	<section class="hero-gradient relative overflow-hidden border-b border-border-subtle">
+		<div class="pointer-events-none absolute inset-0 opacity-40" aria-hidden="true">
+			<div
+				class="absolute -top-24 right-0 h-96 w-96 rounded-full bg-accent/20 blur-3xl"
+			>
+			</div>
+			<div class="absolute bottom-0 left-0 h-64 w-64 rounded-full bg-accent/10 blur-3xl"></div>
+		</div>
+
+		<div class="relative mx-auto max-w-6xl px-4 py-20 sm:px-6 sm:py-28 lg:px-8 lg:py-32">
+			<p class="mb-4 text-sm font-semibold tracking-widest text-accent uppercase">
+				Para quem trabalha de carteira assinada
+			</p>
+			<h1
+				class="max-w-3xl font-serif text-4xl leading-[1.1] font-semibold text-balance text-fg sm:text-5xl lg:text-6xl"
+			>
+				Descubra como ter renda extra sem deixar seu emprego
+			</h1>
+			<p class="mt-6 max-w-2xl text-lg leading-relaxed text-muted">
+				Produto digital, afiliados e estratégias que funcionam de verdade — direto ao ponto, sem
+				aparecer e sem investir uma fortuna.
+			</p>
+			<div class="mt-10 flex flex-wrap gap-4">
+				<a
+					href="/blog/"
+					class="inline-flex items-center rounded-lg bg-accent px-6 py-3 text-sm font-semibold text-bg no-underline transition-colors hover:bg-accent-hover"
+				>
+					Ler os artigos
+				</a>
+				<a
+					href="/about/"
+					class="inline-flex items-center rounded-lg border border-border px-6 py-3 text-sm font-semibold text-fg no-underline transition-colors hover:border-accent/50 hover:text-accent"
+				>
+					Conheça minha história
+				</a>
+			</div>
+		</div>
+	</section>
+
+	<!-- Grid de posts -->
+	<section class="mx-auto max-w-6xl px-4 py-16 sm:px-6 lg:px-8 lg:py-20">
+		<div class="mb-10 flex items-end justify-between gap-4">
+			<div>
+				<h2 class="font-serif text-2xl font-semibold text-fg sm:text-3xl">Últimos artigos</h2>
+				<p class="mt-2 text-muted">Conteúdo prático para começar ainda esta semana.</p>
+			</div>
+			<a href="/blog/" class="hidden text-sm font-medium text-accent no-underline sm:block">
+				Ver todos →
+			</a>
+		</div>
+
+		{
+			posts.length > 0 ? (
+				<div class="grid gap-6 sm:grid-cols-2 lg:grid-cols-3">
+					{featured && <PostCard post={featured} featured />}
+					{rest.map((post) => (
+						<PostCard post={post} />
+					))}
+				</div>
+			) : (
+				<p class="text-muted">Nenhum artigo publicado ainda.</p>
+			)
+		}
+
+		<div class="mt-8 text-center sm:hidden">
+			<a href="/blog/" class="text-sm font-medium text-accent no-underline">Ver todos os artigos →</a>
+		</div>
+	</section>
+</BaseLayout>
