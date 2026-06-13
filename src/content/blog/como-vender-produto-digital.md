@@ -2,7 +2,7 @@
 title: 'Como vender produto digital: guia para iniciantes'
 description: 'Do zero à primeira venda: escolha do produto, plataforma, preço e como divulgar sem precisar de mil seguidores.'
 pubDate: '2026-03-08'
-heroImage: '../../assets/blog-placeholder-3.jpg'
+heroImage: '../../assets/hero-produto-digital.jpg'
 tags:
   - Produto Digital
   - Renda Extra

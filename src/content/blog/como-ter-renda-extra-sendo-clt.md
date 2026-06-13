@@ -2,7 +2,7 @@
 title: 'Como ter renda extra sendo CLT: guia realista para quem tem família e pouco tempo'
 description: 'Estratégias comprovadas de renda extra para quem trabalha de carteira assinada, tem família e não quer aparecer na internet — sem investimento inicial.'
 pubDate: '2026-06-11'
-heroImage: '../../assets/blog-placeholder-5.jpg'
+heroImage: '../../assets/hero-clt-guia.jpg'
 tags:
   - Renda Extra
   - CLT

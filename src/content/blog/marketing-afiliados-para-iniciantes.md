@@ -2,7 +2,7 @@
 title: 'Marketing de afiliados para iniciantes: por onde começar'
 description: 'Como escolher produtos, montar conteúdo que converte e ganhar comissão nas principais plataformas do Brasil — sem investir em estoque.'
 pubDate: '2026-03-15'
-heroImage: '../../assets/blog-placeholder-5.jpg'
+heroImage: '../../assets/hero-marketing-afiliados.jpg'
 tags:
   - Afiliados
   - Renda Extra
