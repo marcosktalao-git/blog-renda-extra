@@ -9,7 +9,7 @@ affiliate_cta:
   title: "Quer começar sua renda extra com um método testado?"
   description: "Acesse o treinamento completo para quem quer resultados reais no digital."
   buttonText: "Quero começar agora"
-  url: "https://kiwify.com.br/seu-link-aqui"
+  url: "https://kiwify.app/3YU6nCF?afid=29W87vGC"
 ---
 
 Todo mês aparece uma nova promessa de renda extra online. E todo mês muita gente testa, não vê resultado e desiste achando que o problema é dela.

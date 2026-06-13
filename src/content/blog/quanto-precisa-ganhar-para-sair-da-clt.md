@@ -9,7 +9,7 @@ affiliate_cta:
   title: "Quer montar sua renda extra antes de sair da CLT?"
   description: "Acesse o método completo para construir renda online sendo CLT e dar o salto com segurança."
   buttonText: "Quero sair da CLT com segurança"
-  url: "https://kiwify.com.br/seu-link-aqui"
+  url: "https://kiwify.app/3YU6nCF?afid=29W87vGC"
 ---
 
 Sair da CLT sem planejamento é um dos erros mais comuns de quem começa a ter resultado no digital. A empolgação fala mais alto e a decisão vem antes da hora.

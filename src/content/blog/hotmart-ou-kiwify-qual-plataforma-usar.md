@@ -9,7 +9,7 @@ affiliate_cta:
   title: "Pronto para vender seu primeiro produto digital?"
   description: "Acesse o passo a passo completo para criar e lançar seu produto na Kiwify ou Hotmart."
   buttonText: "Ver o passo a passo"
-  url: "https://kiwify.com.br/seu-link-aqui"
+  url: "https://kiwify.app/3YU6nCF?afid=29W87vGC"
 ---
 
 Hotmart ou Kiwify — essa é uma das dúvidas mais comuns de quem vai vender o primeiro produto digital.
