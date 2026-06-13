@@ -2,7 +2,7 @@
 title: "Como montar uma segunda renda antes de pedir demissão"
 description: "Aprenda como construir uma segunda renda sendo CLT, sem largar o emprego, usando o tempo livre de forma estratégica para criar renda online consistente."
 pubDate: 2026-05-10
-heroImage: '../../assets/blog-placeholder-3.jpg'
+heroImage: '../../assets/hero-segunda-renda.jpg'
 tags: ["Sair da CLT"]
 keywords: ["como montar segunda renda antes de pedir demissao", "segunda renda sendo clt", "renda extra antes de largar emprego", "como ter renda online sendo clt", "construir renda extra"]
 affiliate_cta:

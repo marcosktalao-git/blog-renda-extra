@@ -2,7 +2,7 @@
 title: "Quanto você precisa ganhar por mês para sair da CLT com segurança"
 description: "Descubra o número real que você precisa atingir antes de pedir demissão, como calcular sua reserva e quando é seguro largar o emprego de carteira assinada."
 pubDate: 2026-05-03
-heroImage: '../../assets/blog-placeholder-2.jpg'
+heroImage: '../../assets/hero-sair-clt.jpg'
 tags: ["Sair da CLT"]
 keywords: ["quanto precisa ganhar para sair da clt", "quando largar o emprego", "sair da clt com segurança", "quanto ter de reserva para sair da clt", "largar emprego para empreender"]
 affiliate_cta:

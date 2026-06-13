@@ -2,7 +2,7 @@
 title: "Quanto dá para ganhar como afiliado iniciante no Brasil"
 description: "Descubra quanto um afiliado iniciante pode ganhar no Brasil, quais fatores influenciam os resultados e o que esperar nos primeiros meses."
 pubDate: 2026-04-26
-heroImage: '../../assets/blog-placeholder-1.jpg'
+heroImage: '../../assets/hero-ganhos.jpg'
 tags: ["Afiliados"]
 keywords: ["quanto ganha um afiliado iniciante", "ganhos afiliado hotmart", "quanto da para ganhar como afiliado", "renda afiliado brasil", "afiliado iniciante resultados"]
 affiliate_cta:

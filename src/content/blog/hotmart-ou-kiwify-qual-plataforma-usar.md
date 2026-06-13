@@ -2,7 +2,7 @@
 title: "Hotmart ou Kiwify: qual plataforma usar para vender seu primeiro produto digital"
 description: "Comparação direta entre Hotmart e Kiwify para quem vai vender o primeiro produto digital. Veja taxas, facilidade de uso e qual escolher para começar."
 pubDate: 2026-04-12
-heroImage: '../../assets/blog-placeholder-4.jpg'
+heroImage: '../../assets/hero-plataforma.jpg'
 tags: ["Produto Digital"]
 keywords: ["hotmart ou kiwify", "diferença hotmart kiwify", "melhor plataforma produto digital", "hotmart vs kiwify", "onde vender produto digital no brasil"]
 affiliate_cta:

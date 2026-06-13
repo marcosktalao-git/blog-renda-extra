@@ -2,7 +2,7 @@
 title: "Como escolher produtos para divulgar como afiliado e não perder tempo"
 description: "Saiba como escolher os melhores produtos para divulgar como afiliado no Brasil, evitar erros comuns e focar no que realmente gera comissão."
 pubDate: 2026-04-19
-heroImage: '../../assets/blog-placeholder-5.jpg'
+heroImage: '../../assets/hero-afiliado.jpg'
 tags: ["Afiliados"]
 keywords: ["como escolher produtos para divulgar como afiliado", "melhores produtos afiliados", "como ser afiliado hotmart", "produtos para afiliados iniciantes", "como escolher nicho afiliado"]
 affiliate_cta:

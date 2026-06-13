@@ -2,7 +2,7 @@
 title: "Como criar um ebook do zero e vender pela internet"
 description: "Aprenda como criar um ebook do zero, escolher o tema certo, montar o arquivo e começar a vender online sem precisar de site ou investimento inicial."
 pubDate: 2026-04-05
-heroImage: '../../assets/blog-placeholder-3.jpg'
+heroImage: '../../assets/hero-ebook.jpg'
 tags: ["Produto Digital"]
 keywords: ["como criar um ebook", "criar ebook do zero", "vender ebook pela internet", "como fazer um ebook para vender", "produto digital ebook"]
 affiliate_cta:

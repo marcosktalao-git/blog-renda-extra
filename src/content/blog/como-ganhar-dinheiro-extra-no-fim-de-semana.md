@@ -2,7 +2,7 @@
 title: "Como ganhar dinheiro extra no fim de semana trabalhando de casa"
 description: "Descubra formas reais de ganhar dinheiro extra no fim de semana sem sair de casa — estratégias práticas para quem tem família e pouco tempo livre."
 pubDate: 2026-03-22
-heroImage: '../../assets/blog-placeholder-1.jpg'
+heroImage: '../../assets/hero-fim-de-semana.jpg'
 tags: ["Renda Extra"]
 keywords: ["ganhar dinheiro extra no fim de semana", "renda extra fim de semana", "trabalhar de casa fim de semana", "renda extra para CLT", "como ganhar dinheiro em casa"]
 affiliate_cta:
