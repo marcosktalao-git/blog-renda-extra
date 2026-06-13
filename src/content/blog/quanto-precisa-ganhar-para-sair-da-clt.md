@@ -1,69 +1,65 @@
 ---
-title: "Quanto voc� precisa ganhar por m�s para sair da CLT com seguran�a"
-description: "Descubra o n�mero real que voc� precisa atingir antes de pedir demiss�o, como calcular sua reserva e quando � seguro largar o emprego de carteira assinada."
+title: "Quanto você precisa ganhar por mês para sair da CLT com segurança"
+description: "Descubra o número real que você precisa atingir antes de pedir demissão, como calcular sua reserva e quando é seguro largar o emprego de carteira assinada."
 pubDate: 2026-05-03
 heroImage: '../../assets/blog-placeholder-2.jpg'
 tags: ["Sair da CLT"]
-keywords: ["quanto precisa ganhar para sair da clt", "quando largar o emprego", "sair da clt com seguran�a", "quanto ter de reserva para sair da clt", "largar emprego para empreender"]
+keywords: ["quanto precisa ganhar para sair da clt", "quando largar o emprego", "sair da clt com segurança", "quanto ter de reserva para sair da clt", "largar emprego para empreender"]
 affiliate_cta:
   title: "Quer montar sua renda extra antes de sair da CLT?"
-  description: "Acesse o m�todo completo para construir renda online sendo CLT e dar o salto com seguran�a."
-  buttonText: "Quero sair da CLT com seguran�a"
+  description: "Acesse o método completo para construir renda online sendo CLT e dar o salto com segurança."
+  buttonText: "Quero sair da CLT com segurança"
   url: "https://kiwify.com.br/seu-link-aqui"
 ---
 
-Sair da CLT sem planejamento � um dos erros mais comuns de quem come�a a ter resultado no digital. A empolga��o fala mais alto e a decis�o vem antes da hora.
+Sair da CLT sem planejamento é um dos erros mais comuns de quem começa a ter resultado no digital. A empolgação fala mais alto e a decisão vem antes da hora.
 
-Este artigo vai te ajudar a calcular o n�mero real que voc� precisa atingir antes de pedir demiss�o.
+Este artigo vai te ajudar a calcular o número real que você precisa atingir antes de pedir demissão.
 
-## Por que o sal�rio CLT vale mais do que parece
+## Por que o salário CLT vale mais do que parece
 
-Antes de calcular quanto precisa ganhar no digital, � preciso entender o que voc� realmente recebe hoje al�m do sal�rio bruto.
+Antes de calcular quanto precisa ganhar no digital, entenda o que você realmente recebe além do salário bruto.
 
-Benef�cios que a CLT inclui e que voc� perde ao sair: FGTS, f�rias remuneradas com um ter�o, d�cimo terceiro, INSS pago pelo empregador, plano de sa�de, vale alimenta��o e vale transporte.
+Benefícios que a CLT inclui e que você perde ao sair: FGTS, férias remuneradas com um terço, décimo terceiro, INSS pago pelo empregador, plano de saúde, vale alimentação e vale transporte.
 
-Dependendo do seu pacote de benef�cios, o valor real da sua CLT pode ser 40% a 60% maior do que o sal�rio l�quido que cai na conta todo m�s.
+Dependendo do seu pacote de benefícios, o valor real da sua CLT pode ser 40% a 60% maior do que o salário líquido que cai na conta todo mês.
 
-## Como calcular seu n�mero real
+## Como calcular seu número real
 
-O c�lculo tem tr�s partes.
+O cálculo tem três partes.
 
-Primeira parte: some todos os seus gastos mensais fixos � aluguel ou financiamento, condom�nio, alimenta��o, escola dos filhos, plano de sa�de, transporte, contas de consumo. Esse � o seu custo de vida base.
+Primeira: some todos os seus gastos mensais fixos. Esse é o seu custo de vida base.
 
-Segunda parte: adicione 30% sobre esse valor para cobrir impostos como aut�nomo ou MEI, plano de sa�de pr�prio e imprevistos. Quem sai da CLT passa a arcar com custos que antes eram pagos pelo empregador.
+Segunda: adicione 30% sobre esse valor para cobrir impostos como autônomo ou MEI, plano de saúde próprio e imprevistos.
 
-Terceira parte: some o valor dos benef�cios que voc� vai perder. Se recebia R$ 800 em vale alimenta��o e R$ 300 em plano de sa�de, esses R$ 1.100 precisam entrar no seu c�lculo.
+Terceira: some o valor dos benefícios que você vai perder. Se recebia R$ 800 em vale alimentação e R$ 300 em plano de saúde, esses R$ 1.100 precisam entrar no cálculo.
 
-O resultado � o seu n�mero m�nimo � quanto voc� precisa faturar todo m�s para manter o padr�o de vida atual.
+O resultado é o seu número mínimo — quanto você precisa faturar todo mês para manter o padrão de vida atual.
 
-## A regra dos tr�s meses consecutivos
+## A regra dos três meses consecutivos
 
-Ter um m�s bom no digital n�o � sinal de que � hora de sair da CLT. O crit�rio mais seguro � este: quando voc� atingir pelo menos tr�s vezes consecutivas o valor m�nimo calculado acima, a� sim a conversa muda.
+Ter um mês bom no digital não é sinal de que é hora de sair da CLT. O critério mais seguro é atingir pelo menos três vezes consecutivas o valor mínimo calculado acima.
 
-Tr�s meses consecutivos mostram que o resultado n�o foi sorte � � consist�ncia.
+Três meses consecutivos mostram que o resultado não foi sorte — é consistência.
 
-## A reserva de emerg�ncia
+## A reserva de emergência
 
-Al�m de atingir o n�mero por tr�s meses seguidos, voc� precisa de uma reserva financeira antes de pedir demiss�o.
+Além de atingir o número por três meses seguidos, você precisa de uma reserva financeira antes de pedir demissão.
 
-O m�nimo recomendado � seis meses do seu custo de vida total guardado. Isso te d� margem para um m�s fraco, uma mudan�a de estrat�gia ou um imprevisto sem que voc� precise voltar para a CLT por necessidade.
+O mínimo recomendado é seis meses do seu custo de vida total guardado. Isso te dá margem para um mês fraco sem precisar voltar para a CLT por necessidade.
 
-## Quando n�o � hora de sair ainda
+## Quando não é hora de sair ainda
 
-Se a sua renda digital � inconsistente � um m�s bom, dois ruins � ainda n�o � hora. Se voc� n�o tem reserva de emerg�ncia, ainda n�o � hora. Se voc� depende de um �nico produto ou cliente para faturar, ainda n�o � hora.
-
-Sair da CLT com pressa pode destruir em semanas o que voc� levou meses para construir.
+Se a sua renda digital é inconsistente, ainda não é hora. Se você não tem reserva de emergência, ainda não é hora. Se você depende de um único produto ou cliente para faturar, ainda não é hora.
 
 ## O meio-termo que muita gente ignora
 
-Antes de pedir demiss�o, existe uma terceira via: negociar uma redu��o de jornada ou trabalho remoto com o empregador atual.
+Antes de pedir demissão, existe uma terceira via: negociar uma redução de jornada ou trabalho remoto com o empregador atual.
 
-Com mais tempo dispon�vel e ainda com a seguran�a do sal�rio, voc� acelera a constru��o da renda digital sem o risco de precisar do dinheiro imediatamente.
+Com mais tempo disponível e ainda com a segurança do salário, você acelera a construção da renda digital sem o risco de precisar do dinheiro imediatamente.
 
-Nem sempre � poss�vel � mas vale conversar antes de tomar a decis�o definitiva.
+## Conclusão
 
-## Conclus�o
-
-Sair da CLT � uma decis�o financeira, n�o emocional. O n�mero que voc� precisa atingir � calcul�vel � e quando voc� chega nele de forma consistente, a decis�o fica muito mais clara.
+Sair da CLT é uma decisão financeira, não emocional. O número que você precisa atingir é calculável — e quando você chega nele de forma consistente, a decisão fica muito mais clara.
 
 Construa primeiro. Decida depois.
