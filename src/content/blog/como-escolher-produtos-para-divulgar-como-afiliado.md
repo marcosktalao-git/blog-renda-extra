@@ -9,7 +9,7 @@ affiliate_cta:
   title: "Quer aprender a escolher e divulgar produtos como afiliado do zero?"
   description: "Acesse o treinamento completo para afiliados iniciantes e comece a gerar comissões."
   buttonText: "Acessar o treinamento"
-  url: "https://monetizze.com.br/seu-link-aqui"
+  url: "https://cakto.app/3RtKUai/?affiliate=Je2BWvVc"
 ---
 
 Um dos maiores erros de quem começa no marketing de afiliados é escolher o produto errado. Você passa semanas divulgando, não vende nada e conclui que afiliado não funciona.
@@ -30,7 +30,7 @@ O quarto é a relevância para o seu público. O produto precisa resolver o prob
 
 ## Onde encontrar produtos para se afiliar
 
-As três principais plataformas no Brasil são Hotmart, Kiwify e Monetizze. As três têm marketplace aberto onde você pode navegar por categoria, ver métricas e solicitar afiliação.
+As três principais plataformas no Brasil são Hotmart, Kiwify e Cakto. As três têm marketplace aberto onde você pode navegar por categoria, ver métricas e solicitar afiliação.
 
 ## Como escolher o nicho antes do produto
 

@@ -34,9 +34,9 @@ O painel é limpo e direto. Para quem está criando o primeiro produto digital, 
 
 Taxa por venda: 7,49% mais R$ 1,00 por transação aprovada — levemente mais barata que a Hotmart.
 
-## Monetizze
+## Cakto
 
-Vale mencionar a Monetizze como terceira opção. É forte no nicho de saúde, suplementos e produtos físicos digitalizados.
+Vale mencionar a Cakto como terceira opção. É forte no nicho de saúde, suplementos e produtos físicos digitalizados.
 
 Taxa por venda: varia entre 8% e 10% dependendo do plano.
 
