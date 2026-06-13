@@ -17,7 +17,7 @@ affiliate_cta:
   title: 'Guia do Afiliado Iniciante'
   description: 'Passo a passo completo para criar seu primeiro link de afiliado e escolher produtos que vendem sem você precisar aparecer.'
   buttonText: 'Ver guia completo'
-  url: 'https://exemplo.hotmart.com/guia-afiliado-iniciante'
+  url: 'https://go.hotmart.com/D106311801Y?dp=1'
 ---
 
 Você volta do trabalho, ainda pensa nas contas do mês, olha para os filhos e pensa: *"Precisava de uma renda extra, mas não tenho tempo nem energia para mais nada."*

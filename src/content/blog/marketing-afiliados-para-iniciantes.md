@@ -15,7 +15,7 @@ affiliate_cta:
   title: 'Curso de Afiliados do Zero'
   description: 'Aprenda a escolher produtos lucrativos e criar conteúdo que vende — mesmo sem audiência.'
   buttonText: 'Ver curso na Hotmart'
-  url: 'https://exemplo.hotmart.com/curso-afiliados'
+  url: 'https://go.hotmart.com/D106311801Y?dp=1'
 ---
 
 Afiliado é quem indica o produto de outra pessoa e ganha comissão por cada venda. Você não cria o produto, não dá suporte — só direciona pessoas interessadas para a página de compra.
