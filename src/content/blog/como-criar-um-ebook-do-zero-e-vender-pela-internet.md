@@ -9,7 +9,7 @@ affiliate_cta:
   title: "Quer aprender a criar e vender produtos digitais do zero?"
   description: "Acesse o treinamento completo com passo a passo para lançar seu primeiro produto digital."
   buttonText: "Acessar o treinamento"
-  url: "https://hotmart.com/produto/seu-link-aqui"
+  url: "https://go.hotmart.com/D106311801Y?dp=1"
 ---
 
 Ebook é um dos produtos digitais mais simples de criar e um dos mais vendidos no Brasil. Não precisa de gráfica, não precisa de estoque, não precisa de investimento.

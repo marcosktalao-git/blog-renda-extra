@@ -9,7 +9,7 @@ affiliate_cta:
   title: "Quer acelerar seus resultados como afiliado?"
   description: "Conheça o método usado por afiliados que faturam todos os meses no digital."
   buttonText: "Ver o método"
-  url: "https://hotmart.com/produto/seu-link-aqui"
+  url: "https://go.hotmart.com/D106311801Y?dp=1"
 ---
 
 Essa é a pergunta que todo iniciante faz antes de começar. E a resposta honesta é: depende — mas dá para estimar com base em quem já passou por isso.

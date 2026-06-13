@@ -9,7 +9,7 @@ affiliate_cta:
   title: "Quer um plano claro para montar sua segunda renda?"
   description: "Acesse o método completo para construir renda online antes de sair da CLT."
   buttonText: "Quero meu plano de renda extra"
-  url: "https://hotmart.com/produto/seu-link-aqui"
+  url: "https://go.hotmart.com/D106311801Y?dp=1"
 ---
 
 Pedir demissão sem ter uma segunda renda funcionando é um dos erros mais caros que alguém pode cometer no digital.

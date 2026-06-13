@@ -9,7 +9,7 @@ affiliate_cta:
   title: "Quer um método passo a passo para sua primeira renda extra?"
   description: "Conheça o curso mais completo para quem quer começar no digital sem largar o emprego."
   buttonText: "Ver o método completo"
-  url: "https://hotmart.com/produto/seu-link-aqui"
+  url: "https://go.hotmart.com/D106311801Y?dp=1"
 ---
 
 O fim de semana chega, as contas não param e a sensação de que o salário nunca vai ser suficiente bate forte.
