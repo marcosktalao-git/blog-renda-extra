@@ -1,60 +1,61 @@
-ï»¿---
+---
 title: "Como ganhar dinheiro extra no fim de semana trabalhando de casa"
-description: "Descubra formas reais de ganhar dinheiro extra no fim de semana sem sair de casa â€” estratÃ©gias prÃ¡ticas para quem tem famÃ­lia e pouco tempo livre."
+description: "Descubra formas reais de ganhar dinheiro extra no fim de semana sem sair de casa — estratégias práticas para quem tem família e pouco tempo livre."
 pubDate: 2026-03-22
+heroImage: '../../assets/blog-placeholder-1.jpg'
 tags: ["Renda Extra"]
 keywords: ["ganhar dinheiro extra no fim de semana", "renda extra fim de semana", "trabalhar de casa fim de semana", "renda extra para CLT", "como ganhar dinheiro em casa"]
 affiliate_cta:
-  title: "Quer um mÃ©todo passo a passo para sua primeira renda extra?"
-  description: "ConheÃ§a o curso mais completo para quem quer comeÃ§ar no digital sem largar o emprego."
-  buttonText: "Ver o mÃ©todo completo"
+  title: "Quer um método passo a passo para sua primeira renda extra?"
+  description: "Conheça o curso mais completo para quem quer começar no digital sem largar o emprego."
+  buttonText: "Ver o método completo"
   url: "https://hotmart.com/produto/seu-link-aqui"
 ---
 
-O fim de semana chega, as contas nÃ£o param â€” e a sensaÃ§Ã£o de que o salÃ¡rio nunca vai ser suficiente bate forte.
+O fim de semana chega, as contas não param — e a sensação de que o salário nunca vai ser suficiente bate forte.
 
-Se vocÃª trabalha de carteira assinada e estÃ¡ buscando uma forma de complementar a renda sem abrir mÃ£o do tempo com a famÃ­lia, este artigo Ã© direto ao ponto.
+Se você trabalha de carteira assinada e está buscando uma forma de complementar a renda sem abrir mão do tempo com a família, este artigo é direto ao ponto.
 
-## O que Ã© possÃ­vel fazer no fim de semana (de casa mesmo)
+## O que é possível fazer no fim de semana (de casa mesmo)
 
-Antes de qualquer coisa: esqueÃ§a promessas de enriquecimento rÃ¡pido. O que funciona de verdade exige consistÃªncia â€” mas nÃ£o exige que vocÃª trabalhe o dia inteiro no sÃ¡bado e no domingo.
+Antes de qualquer coisa: esqueça promessas de enriquecimento rápido. O que funciona de verdade exige consistência — mas não exige que você trabalhe o dia inteiro no sábado e no domingo.
 
-Com 2 a 4 horas bem aproveitadas por semana, jÃ¡ Ã© possÃ­vel construir uma fonte de renda extra real.
+Com 2 a 4 horas bem aproveitadas por semana, já é possível construir uma fonte de renda extra real.
 
 ### 1. Afiliado de produtos digitais
 
-VocÃª indica produtos de outras pessoas e recebe comissÃ£o por cada venda. NÃ£o precisa criar nada, nÃ£o precisa ter estoque, nÃ£o precisa aparecer.
+Você indica produtos de outras pessoas e recebe comissão por cada venda. Não precisa criar nada, não precisa ter estoque, não precisa aparecer.
 
-O processo Ã© simples: escolhe um produto em plataformas como Hotmart, Kiwify ou Monetizze, divulga o link de afiliado e recebe a comissÃ£o quando alguÃ©m compra pelo seu link.
+O processo é simples: escolhe um produto em plataformas como Hotmart, Kiwify ou Monetizze, divulga o link de afiliado e recebe a comissão quando alguém compra pelo seu link.
 
-No fim de semana, vocÃª pode usar algumas horas para criar conteÃºdo simples e agendar para a semana toda.
+No fim de semana, você pode usar algumas horas para criar conteúdo simples e agendar para a semana toda.
 
-### 2. Venda de produto digital prÃ³prio
+### 2. Venda de produto digital próprio
 
-Se vocÃª tem conhecimento em qualquer Ã¡rea â€” culinÃ¡ria, finanÃ§as pessoais, artesanato, organizaÃ§Ã£o, idiomas â€” pode transformar isso em um ebook ou mini curso.
+Se você tem conhecimento em qualquer área — culinária, finanças pessoais, artesanato, organização, idiomas — pode transformar isso em um ebook ou mini curso.
 
-O produto Ã© criado uma vez e vendido indefinidamente. Plataformas como Kiwify e Hotmart permitem criar uma pÃ¡gina de vendas e processar pagamentos de forma gratuita.
+O produto é criado uma vez e vendido indefinidamente. Plataformas como Kiwify e Hotmart permitem criar uma página de vendas e processar pagamentos de forma gratuita.
 
-### 3. ServiÃ§os freelance simples
+### 3. Serviços freelance simples
 
-DigitaÃ§Ã£o, revisÃ£o de texto, criaÃ§Ã£o de artes no Canva, organizaÃ§Ã£o de planilhas â€” existe mercado para habilidades que vocÃª provavelmente jÃ¡ tem.
+Digitação, revisão de texto, criação de artes no Canva, organização de planilhas — existe mercado para habilidades que você provavelmente já tem.
 
-## Quanto dÃ¡ para ganhar?
+## Quanto dá para ganhar?
 
-Para ter uma referÃªncia realista: afiliado iniciante ganha entre R$ 300 e R$ 800 por mÃªs nos primeiros 3 meses. Produto digital prÃ³prio pode chegar a R$ 500 a R$ 2.000 por mÃªs apÃ³s os primeiros 60 dias. Freelance varia de R$ 200 a R$ 600 por fim de semana dependendo do serviÃ§o.
+Para ter uma referência realista: afiliado iniciante ganha entre R$ 300 e R$ 800 por mês nos primeiros 3 meses. Produto digital próprio pode chegar a R$ 500 a R$ 2.000 por mês após os primeiros 60 dias. Freelance varia de R$ 200 a R$ 600 por fim de semana dependendo do serviço.
 
-## Por onde comeÃ§ar este fim de semana
+## Por onde começar este fim de semana
 
-Se vocÃª nunca tentou nada no digital, comece pelo afiliado. VocÃª nÃ£o precisa criar nada â€” sÃ³ escolhe um produto que jÃ¡ existe, pega seu link e comeÃ§a a divulgar.
+Se você nunca tentou nada no digital, comece pelo afiliado. Você não precisa criar nada — só escolhe um produto que já existe, pega seu link e começa a divulgar.
 
-Passos prÃ¡ticos: crie uma conta gratuita na Hotmart ou Kiwify, escolha um produto com boa avaliaÃ§Ã£o, pegue seu link de afiliado e mande mensagem para 10 pessoas do seu WhatsApp que possam se interessar.
+Passos práticos: crie uma conta gratuita na Hotmart ou Kiwify, escolha um produto com boa avaliação, pegue seu link de afiliado e mande mensagem para 10 pessoas do seu WhatsApp que possam se interessar.
 
-## O erro mais comum de quem comeÃ§a
+## O erro mais comum de quem começa
 
-Tentar fazer tudo ao mesmo tempo. Afiliado, produto prÃ³prio, freelance, Instagram, YouTube â€” tudo junto. O resultado Ã© nÃ£o terminar nada e desistir depois de duas semanas.
+Tentar fazer tudo ao mesmo tempo. Afiliado, produto próprio, freelance, Instagram, YouTube — tudo junto. O resultado é não terminar nada e desistir depois de duas semanas.
 
-Escolha uma coisa. DÃª dois fins de semana para ela. SÃ³ depois avalie se quer continuar ou mudar de caminho.
+Escolha uma coisa. Dê dois fins de semana para ela. Só depois avalie se quer continuar ou mudar de caminho.
 
-## ConclusÃ£o
+## Conclusão
 
-Ganhar dinheiro extra no fim de semana trabalhando de casa Ã© possÃ­vel â€” mas exige escolha, foco e consistÃªncia. O mais importante Ã© sair do planejamento e colocar a primeira aÃ§Ã£o em prÃ¡tica ainda este fim de semana.
+Ganhar dinheiro extra no fim de semana trabalhando de casa é possível — mas exige escolha, foco e consistência. O mais importante é sair do planejamento e colocar a primeira ação em prática ainda este fim de semana.
