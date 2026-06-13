@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Como montar uma segunda renda antes de pedir demiss�o"
 description: "Aprenda como construir uma segunda renda sendo CLT, sem largar o emprego, usando o tempo livre de forma estrat�gica para criar renda online consistente."
 pubDate: 2026-05-10

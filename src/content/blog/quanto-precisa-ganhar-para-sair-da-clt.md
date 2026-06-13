@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Quanto voc� precisa ganhar por m�s para sair da CLT com seguran�a"
 description: "Descubra o n�mero real que voc� precisa atingir antes de pedir demiss�o, como calcular sua reserva e quando � seguro largar o emprego de carteira assinada."
 pubDate: 2026-05-03

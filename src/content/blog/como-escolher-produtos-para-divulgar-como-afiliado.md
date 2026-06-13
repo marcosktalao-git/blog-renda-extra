@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Como escolher produtos para divulgar como afiliado e n�o perder tempo"
 description: "Saiba como escolher os melhores produtos para divulgar como afiliado no Brasil, evitar erros comuns e focar no que realmente gera comiss�o."
 pubDate: 2026-04-19
