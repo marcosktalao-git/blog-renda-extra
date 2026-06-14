@@ -1,0 +1,125 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+
+// TODO: Inserir link real do Google Drive após upload do ebook
+const EBOOK_URL = 'https://drive.google.com/file/d/1WmSoS1pVDUGUX3mwJYSByAme1VrZ7jnf/view?usp=sharing';
+
+// TODO: Inserir link real de afiliado (Hotmart / Kiwify / Monetizze)
+const AFILIADO_URL = 'https://go.hotmart.com/D106311801Y?dp=1&src=hotmart-mestredotrafego-pg-obrigado';
+
+const proximosPassos = [
+  {
+    slug: '/blog/como-ter-renda-extra-sendo-clt',
+    titulo: 'Como ter renda extra sendo CLT',
+    desc: 'O guia completo para quem quer começar sem abrir mão do emprego atual.',
+  },
+  {
+    slug: '/blog/marketing-afiliados-para-iniciantes',
+    titulo: 'Marketing de afiliados para iniciantes',
+    desc: 'Entenda como funciona e dê os primeiros passos sem investimento.',
+  },
+  {
+    slug: '/blog/como-ganhar-dinheiro-com-o-que-voce-ja-sabe-fazer',
+    titulo: 'Como ganhar dinheiro online',
+    desc: 'Estratégias práticas para gerar renda usando o que você já sabe.',
+  },
+];
+---
+
+<BaseLayout
+  title="Ebook Liberado | Renda Extra na Prática"
+  description="Seu ebook já está disponível para download. Dê o próximo passo para construir sua renda paralela."
+>
+  <!-- ── HERO ── -->
+  <section class="hero-gradient py-20 px-4">
+    <div class="mx-auto max-w-2xl text-center">
+      <div class="text-6xl mb-6" aria-hidden="true">🎉</div>
+      <h1 class="font-serif text-4xl font-bold text-fg leading-tight mb-4 text-balance">
+        Ebook Liberado!
+      </h1>
+      <p class="text-muted text-lg leading-relaxed mb-2">
+        Parabéns. Você acaba de dar o primeiro passo para construir uma renda paralela sem precisar pedir demissão.
+      </p>
+      <p class="text-muted text-base mb-10">
+        Clique no botão abaixo para baixar o seu ebook.
+      </p>
+
+      <!--
+        TODO: Substituir EBOOK_URL pelo link real do Google Drive.
+        O arquivo deve estar com permissão "Qualquer pessoa com o link pode visualizar".
+      -->
+      <a
+        href={EBOOK_URL}
+        target="_blank"
+        rel="noopener noreferrer"
+        aria-label="Baixar ebook Escada de Renda Paralela em 21 Dias"
+        class="inline-flex items-center gap-2 rounded-lg bg-accent px-8 py-4 text-base font-semibold text-white transition-colors duration-200 hover:bg-accent-hover"
+      >
+        <span aria-hidden="true">⬇️</span>
+        Baixar Ebook Agora
+      </a>
+    </div>
+  </section>
+
+  <!-- ── PRÓXIMOS PASSOS ── -->
+  <section class="py-16 px-4 bg-bg-elevated">
+    <div class="mx-auto max-w-3xl">
+      <h2 class="font-serif text-2xl font-semibold text-fg text-center mb-3">
+        Enquanto isso, continue aprendendo
+      </h2>
+      <p class="text-muted text-center text-sm mb-10">
+        Esses artigos vão te ajudar a aplicar o que está no ebook.
+      </p>
+      <div class="grid gap-4 sm:grid-cols-3">
+        {proximosPassos.map((post) => (
+          <a
+            href={post.slug}
+            class="group rounded-lg border border-border bg-bg-card p-5 transition-colors duration-200 hover:border-accent/50 no-underline"
+          >
+            <h3 class="font-serif font-semibold text-fg text-base mb-2 leading-snug group-hover:text-accent transition-colors duration-200">
+              {post.titulo}
+            </h3>
+            <p class="text-muted text-sm leading-relaxed">
+              {post.desc}
+            </p>
+          </a>
+        ))}
+      </div>
+    </div>
+  </section>
+
+  <!-- ── BLOCO DE MONETIZAÇÃO ── -->
+  <section class="py-16 px-4">
+    <div class="mx-auto max-w-2xl">
+      <div class="rounded-xl border border-accent/20 bg-accent-subtle p-8 text-center">
+        <p class="text-accent text-sm font-medium mb-3 uppercase tracking-wide">
+          Passo seguinte
+        </p>
+        <h2 class="font-serif text-2xl font-semibold text-fg mb-4">
+          Quer acelerar seus resultados?
+        </h2>
+        <p class="text-muted leading-relaxed mb-8 max-w-lg mx-auto">
+          Conheça o método recomendado para quem quer construir uma renda online consistente, mesmo começando do zero e trabalhando em tempo parcial.
+        </p>
+
+        <!--
+          TODO: Substituir AFILIADO_URL pelo link real de afiliado.
+          Plataformas: Hotmart (https://hotmart.com), Kiwify (https://kiwify.com.br), Monetizze (https://monetizze.com.br)
+        -->
+        <a
+          href={AFILIADO_URL}
+          target="_blank"
+          rel="noopener noreferrer sponsored"
+          aria-label="Conhecer o treinamento recomendado para renda online"
+          class="inline-block rounded-lg bg-accent px-8 py-4 text-base font-semibold text-white transition-colors duration-200 hover:bg-accent-hover"
+        >
+          Conhecer o Treinamento
+        </a>
+
+        <p class="text-subtle text-xs mt-4">
+          * Link de afiliado. Posso receber comissão sem custo adicional para você.
+        </p>
+      </div>
+    </div>
+  </section>
+</BaseLayout>
