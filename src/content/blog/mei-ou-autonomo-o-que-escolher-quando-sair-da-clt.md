@@ -2,7 +2,7 @@
 title: "MEI ou autônomo: o que escolher quando sair da CLT"
 description: "Entenda as diferencas entre MEI e autonomo para quem vai sair da CLT, quando cada opcao faz sentido e como escolher o regime certo para o seu perfil."
 pubDate: 2026-07-19
-heroImage: '../../assets/blog-placeholder-5.jpg'
+heroImage: '../../assets/hero-mei-autonomo.jpg'
 tags: ["Sair da CLT"]
 keywords: ["mei ou autonomo", "diferenca mei autonomo", "o que escolher mei ou autonomo", "mei para quem sai da clt", "como formalizar renda extra"]
 affiliate_cta:

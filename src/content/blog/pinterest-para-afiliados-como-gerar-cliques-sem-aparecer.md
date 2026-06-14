@@ -2,7 +2,7 @@
 title: "Pinterest para afiliados: como gerar cliques sem aparecer"
 description: "Aprenda como usar o Pinterest para gerar cliques em links de afiliado de forma consistente, sem precisar aparecer em video, gravar stories ou ter seguidores."
 pubDate: 2026-06-28
-heroImage: '../../assets/blog-placeholder-2.jpg'
+heroImage: '../../assets/hero-pinterest-afiliado.jpg'
 tags: ["Afiliados"]
 keywords: ["pinterest para afiliados", "como gerar cliques no pinterest", "afiliado sem aparecer pinterest", "pinterest marketing afiliados", "como usar pinterest para vender como afiliado"]
 affiliate_cta:

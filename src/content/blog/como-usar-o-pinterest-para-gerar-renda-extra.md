@@ -2,7 +2,7 @@
 title: "Como usar o Pinterest para gerar renda extra sem aparecer"
 description: "Aprenda como usar o Pinterest para gerar renda extra como afiliado sem precisar aparecer, criar vídeos ou ter seguidores. Estratégia prática para CLTs."
 pubDate: 2026-05-17
-heroImage: '../../assets/blog-placeholder-1.jpg'
+heroImage: '../../assets/hero-pinterest-renda.jpg'
 tags: ["Renda Extra"]
 keywords: ["pinterest para renda extra", "como usar pinterest para ganhar dinheiro", "pinterest afiliados", "renda extra sem aparecer", "pinterest marketing digital"]
 affiliate_cta:

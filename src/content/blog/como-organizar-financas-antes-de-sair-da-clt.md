@@ -2,7 +2,7 @@
 title: "Como organizar as finanças antes de sair da CLT"
 description: "Guia prático para organizar sua vida financeira antes de pedir demissão. Saiba o que cortar, o que guardar e como se preparar para a transição com segurança."
 pubDate: 2026-07-12
-heroImage: '../../assets/blog-placeholder-4.jpg'
+heroImage: '../../assets/hero-financas-clt.jpg'
 tags: ["Sair da CLT"]
 keywords: ["como organizar financas antes de sair da clt", "planejamento financeiro para sair do emprego", "preparacao financeira demissao", "organizar dinheiro antes de empreender", "financas para quem quer sair da clt"]
 affiliate_cta:

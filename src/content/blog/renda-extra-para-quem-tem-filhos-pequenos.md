@@ -2,7 +2,7 @@
 title: "Renda extra para quem tem filhos pequenos: o que funciona na prática"
 description: "Estratégias reais de renda extra para pais e mães com filhos pequenos que trabalham de CLT e têm pouco tempo disponível. Sem enrolação e sem promessas vazias."
 pubDate: 2026-05-24
-heroImage: '../../assets/blog-placeholder-2.jpg'
+heroImage: '../../assets/hero-filhos-pequenos.jpg'
 tags: ["Renda Extra"]
 keywords: ["renda extra para quem tem filhos pequenos", "renda extra para maes", "como ganhar dinheiro com filhos em casa", "renda extra para pais CLT", "trabalhar em casa com filhos"]
 affiliate_cta:

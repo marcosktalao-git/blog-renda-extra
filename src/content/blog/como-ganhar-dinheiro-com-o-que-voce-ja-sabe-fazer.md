@@ -2,7 +2,7 @@
 title: "Como ganhar dinheiro com o que você já sabe fazer"
 description: "Descubra como transformar habilidades que você já tem em uma fonte de renda extra online, sem precisar aprender nada novo ou investir dinheiro para começar."
 pubDate: 2026-05-31
-heroImage: '../../assets/blog-placeholder-3.jpg'
+heroImage: '../../assets/hero-habilidade-dinheiro.jpg'
 tags: ["Renda Extra"]
 keywords: ["como ganhar dinheiro com o que sabe fazer", "transformar habilidade em renda", "renda extra com conhecimento", "monetizar habilidades", "ganhar dinheiro com talento"]
 affiliate_cta:

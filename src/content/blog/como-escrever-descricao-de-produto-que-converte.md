@@ -2,7 +2,7 @@
 title: "Como escrever uma descrição de produto que converte"
 description: "Aprenda como escrever descrições de produtos digitais que vendem, usando tecnicas de copywriting simples e sem precisar ser redator profissional."
 pubDate: 2026-07-05
-heroImage: '../../assets/blog-placeholder-3.jpg'
+heroImage: '../../assets/hero-descricao-produto.jpg'
 tags: ["Afiliados"]
 keywords: ["como escrever descricao de produto", "descricao de produto que vende", "copywriting para afiliados", "como descrever produto digital", "texto de venda produto digital"]
 affiliate_cta:

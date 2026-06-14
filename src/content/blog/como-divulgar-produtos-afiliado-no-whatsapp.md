@@ -2,7 +2,7 @@
 title: "Como divulgar produtos de afiliado no WhatsApp sem irritar os contatos"
 description: "Aprenda como usar o WhatsApp para divulgar produtos como afiliado de forma natural, sem spam e sem perder contatos. Estrategia pratica para iniciantes."
 pubDate: 2026-06-21
-heroImage: '../../assets/blog-placeholder-1.jpg'
+heroImage: '../../assets/hero-whatsapp-afiliado.jpg'
 tags: ["Afiliados"]
 keywords: ["como divulgar produto afiliado no whatsapp", "whatsapp para afiliados", "vender pelo whatsapp sem spam", "afiliado whatsapp estrategia", "como usar whatsapp para ganhar dinheiro"]
 affiliate_cta:

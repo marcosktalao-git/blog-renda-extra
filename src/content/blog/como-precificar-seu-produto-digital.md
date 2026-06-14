@@ -2,7 +2,7 @@
 title: "Como precificar seu produto digital e não deixar dinheiro na mesa"
 description: "Aprenda como definir o preço certo para seu produto digital, evitar os erros mais comuns de precificação e maximizar seu faturamento sem afastar compradores."
 pubDate: 2026-06-14
-heroImage: '../../assets/blog-placeholder-5.jpg'
+heroImage: '../../assets/hero-precificacao.jpg'
 tags: ["Produto Digital"]
 keywords: ["como precificar produto digital", "preco para ebook", "quanto cobrar por curso online", "precificacao produto digital", "definir preco infoproduto"]
 affiliate_cta:

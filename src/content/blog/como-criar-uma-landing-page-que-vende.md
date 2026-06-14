@@ -2,7 +2,7 @@
 title: "Como criar uma landing page que vende: guia para iniciantes"
 description: "Aprenda como criar uma landing page que converte para vender produtos digitais ou capturar leads, sem precisar saber programar ou contratar designer."
 pubDate: 2026-06-07
-heroImage: '../../assets/blog-placeholder-4.jpg'
+heroImage: '../../assets/hero-landing-page.jpg'
 tags: ["Produto Digital"]
 keywords: ["como criar landing page que vende", "landing page para iniciantes", "pagina de vendas produto digital", "criar pagina de vendas gratis", "landing page sem programar"]
 affiliate_cta:
