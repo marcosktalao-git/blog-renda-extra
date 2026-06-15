@@ -149,31 +149,31 @@ const bookSchema = {
           Preencha os campos abaixo e o ebook será enviado para o seu email.
         </p>
 
-        <!-- MailerLite embed — grupo: Renda Extra na Prática -->
-        <div id="mlb2-42602049" class="ml-form-embedContainer ml-subscribe-form ml-subscribe-form-42602049">
-          <div class="ml-form-align-center">
-            <div class="ml-form-embedWrapper embedForm">
-              <div class="ml-form-embedBody ml-form-embedBodyDefault row-form">
-                <form class="ml-block-form" action="https://assets.mailerlite.com/jsonp/2412147/forms/190300245810218475/subscribe" data-code="" method="post" target="_top">
-                  <div class="ml-form-formContent">
-                    <div class="ml-form-fieldRow">
-                      <div class="ml-field-group ml-field-email ml-validate-email ml-validate-required">
-                        <input aria-label="email" aria-required="true" type="email" class="form-control" name="fields[email]" placeholder="Seu melhor email" autocomplete="email" style="width:100%;padding:12px;border-radius:8px;border:1px solid #2a2f3d;background:#0f1117;color:#eceef2;font-size:15px;margin-bottom:12px;" />
-                      </div>
-                    </div>
-                  </div>
-                  <input type="hidden" name="ml-submit" value="1">
-                  <div class="ml-form-embedSubmit">
-                    <button type="submit" style="width:100%;padding:14px;background:#f97316;color:#fff;border:none;border-radius:8px;font-size:16px;font-weight:700;cursor:pointer;">
-                      Receber Ebook Gratuitamente
-                    </button>
-                  </div>
-                  <input type="hidden" name="anticsrf" value="true">
-                </form>
-              </div>
-            </div>
+        <!-- Formulário Formspree — redireciona para /obrigado via _next -->
+        <form action="https://formspree.io/f/xnjywnqd" method="POST" class="space-y-4">
+          <input type="hidden" name="_next" value="https://blog-renda-extra.vercel.app/obrigado" />
+          <input type="hidden" name="_subject" value="Novo lead - Ebook Renda Extra" />
+          <div>
+            <label for="email" class="block text-sm font-medium text-fg mb-1.5">
+              Seu melhor email <span class="text-accent" aria-hidden="true">*</span>
+            </label>
+            <input
+              id="email"
+              name="email"
+              type="email"
+              required
+              placeholder="voce@email.com"
+              aria-required="true"
+              class="w-full rounded-lg border border-border bg-bg px-4 py-3 text-fg placeholder:text-subtle focus:border-accent focus:outline-none focus:ring-1 focus:ring-accent transition-colors duration-200"
+            />
           </div>
-        </div>
+          <button
+            type="submit"
+            class="w-full rounded-lg bg-accent px-6 py-4 text-base font-semibold text-white transition-all duration-200 hover:bg-accent-hover active:scale-95"
+          >
+            Receber Ebook Gratuitamente
+          </button>
+        </form>
 
         <p class="text-center text-xs text-subtle mt-4">
           🔒 Seus dados estão seguros. Sem spam.
