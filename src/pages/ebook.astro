@@ -226,23 +226,19 @@ const bookSchema = {
     submitBtn.disabled = true;
     submitBtn.textContent = 'Enviando...';
 
-    try {
-      // MailerLite API — adiciona subscriber ao grupo Renda Extra na Prática
-      const formData = new FormData();
-      formData.append('fields[email]', emailInput.value);
-      formData.append('ml-submit', '1');
-      formData.append('anticsrf', 'true');
+    // Envia para MailerLite em background e redireciona imediatamente
+    const formData = new FormData();
+    formData.append('fields[email]', emailInput.value);
+    formData.append('ml-submit', '1');
+    formData.append('anticsrf', 'true');
 
-      await fetch('https://assets.mailerlite.com/jsonp/2412147/forms/190300245810218475/subscribe', {
-        method: 'POST',
-        body: formData,
-        mode: 'no-cors',
-      });
-    } catch (_) {
-      // Continua mesmo se der erro de CORS — o lead pode ter sido salvo
-    }
+    fetch('https://assets.mailerlite.com/jsonp/2412147/forms/190300245810218475/subscribe', {
+      method: 'POST',
+      body: formData,
+      mode: 'no-cors',
+    }).catch(() => {});
 
-    // Redireciona para /obrigado
+    // Redireciona imediatamente sem aguardar resposta
     window.location.href = '/obrigado';
   });
 </script>
