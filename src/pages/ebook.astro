@@ -154,7 +154,7 @@ const bookSchema = {
           <div class="ml-form-align-center">
             <div class="ml-form-embedWrapper embedForm">
               <div class="ml-form-embedBody ml-form-embedBodyDefault row-form">
-                <form class="ml-block-form" action="https://assets.mailerlite.com/jsonp/2412147/forms/190300245810218475/subscribe" data-code="" method="post" target="_self">
+                <form class="ml-block-form" action="https://assets.mailerlite.com/jsonp/2412147/forms/190300245810218475/subscribe" data-code="" method="post" target="_blank">
                   <div class="ml-form-formContent">
                     <div class="ml-form-fieldRow">
                       <div class="ml-field-group ml-field-email ml-validate-email ml-validate-required">
@@ -206,16 +206,43 @@ const bookSchema = {
 </BaseLayout>
 
 <script>
-  // MailerLite — redireciona para /obrigado após cadastro
-  function ml_webform_success_42602049() {
-    try {
-      window.top.location.href = 'https://blog-renda-extra.vercel.app/obrigado';
-    } catch (e) {
-      window.location.href = 'https://blog-renda-extra.vercel.app/obrigado';
+  const form = document.getElementById('ebook-form');
+  const emailInput = document.getElementById('email') as HTMLInputElement;
+  const emailError = document.getElementById('email-error') as HTMLParagraphElement;
+  const submitBtn = document.getElementById('submit-btn') as HTMLButtonElement;
+
+  form?.addEventListener('submit', async (e) => {
+    e.preventDefault();
+
+    const emailRegex = /^[^\s@]+@[^\s@]+\.[^\s@]+$/;
+    if (!emailInput.value.trim() || !emailRegex.test(emailInput.value)) {
+      emailInput.classList.add('border-red-400');
+      emailError?.classList.remove('hidden');
+      return;
     }
-  }
-</script>
-<script src="https://groot.mailerlite.com/js/w/webforms.min.js?v83147fa8ce2d95cb73ece7f28b469519" type="text/javascript"></script>
-<script>
-  fetch("https://assets.mailerlite.com/jsonp/2412147/forms/190300245810218475/takel")
+
+    emailInput.classList.remove('border-red-400');
+    emailError?.classList.add('hidden');
+    submitBtn.disabled = true;
+    submitBtn.textContent = 'Enviando...';
+
+    try {
+      // MailerLite API — adiciona subscriber ao grupo Renda Extra na Prática
+      const formData = new FormData();
+      formData.append('fields[email]', emailInput.value);
+      formData.append('ml-submit', '1');
+      formData.append('anticsrf', 'true');
+
+      await fetch('https://assets.mailerlite.com/jsonp/2412147/forms/190300245810218475/subscribe', {
+        method: 'POST',
+        body: formData,
+        mode: 'no-cors',
+      });
+    } catch (_) {
+      // Continua mesmo se der erro de CORS — o lead pode ter sido salvo
+    }
+
+    // Redireciona para /obrigado
+    window.location.href = '/obrigado';
+  });
 </script>
