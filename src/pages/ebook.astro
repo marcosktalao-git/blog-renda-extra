@@ -149,64 +149,35 @@ const bookSchema = {
           Preencha os campos abaixo e o ebook será enviado para o seu email.
         </p>
 
-        <!--
-          TODO: Integração futura com provedor de email.
-          Opções: Brevo (https://brevo.com), MailerLite (https://mailerlite.com), ConvertKit (https://convertkit.com)
-          Substituir a action do form pela URL da sua lista e adicionar os campos hidden necessários.
-        -->
-        <form
-          id="ebook-form"
-          novalidate
-          class="space-y-4"
-        >
-          <div>
-            <label for="nome" class="block text-sm font-medium text-fg mb-1.5">
-              Seu nome <span class="text-accent" aria-hidden="true">*</span>
-            </label>
-            <input
-              id="nome"
-              name="nome"
-              type="text"
-              required
-              placeholder="Como você se chama?"
-              aria-required="true"
-              class="w-full rounded-lg border border-border bg-bg px-4 py-3 text-fg placeholder:text-subtle focus:border-accent focus:outline-none focus:ring-1 focus:ring-accent transition-colors duration-200"
-            />
-            <p id="nome-error" class="mt-1.5 text-sm text-red-400 hidden" role="alert">
-              Por favor, informe seu nome.
-            </p>
+        <!-- MailerLite embed — grupo: Renda Extra na Prática -->
+        <div id="mlb2-42602049" class="ml-form-embedContainer ml-subscribe-form ml-subscribe-form-42602049">
+          <div class="ml-form-align-center">
+            <div class="ml-form-embedWrapper embedForm">
+              <div class="ml-form-embedBody ml-form-embedBodyDefault row-form">
+                <form class="ml-block-form" action="https://assets.mailerlite.com/jsonp/2412147/forms/190300245810218475/subscribe" data-code="" method="post" target="_blank">
+                  <div class="ml-form-formContent">
+                    <div class="ml-form-fieldRow">
+                      <div class="ml-field-group ml-field-email ml-validate-email ml-validate-required">
+                        <input aria-label="email" aria-required="true" type="email" class="form-control" name="fields[email]" placeholder="Seu melhor email" autocomplete="email" style="width:100%;padding:12px;border-radius:8px;border:1px solid #2a2f3d;background:#0f1117;color:#eceef2;font-size:15px;margin-bottom:12px;" />
+                      </div>
+                    </div>
+                  </div>
+                  <input type="hidden" name="ml-submit" value="1">
+                  <div class="ml-form-embedSubmit">
+                    <button type="submit" style="width:100%;padding:14px;background:#f97316;color:#fff;border:none;border-radius:8px;font-size:16px;font-weight:700;cursor:pointer;">
+                      Receber Ebook Gratuitamente
+                    </button>
+                  </div>
+                  <input type="hidden" name="anticsrf" value="true">
+                </form>
+              </div>
+            </div>
           </div>
+        </div>
 
-          <div>
-            <label for="email" class="block text-sm font-medium text-fg mb-1.5">
-              Seu melhor email <span class="text-accent" aria-hidden="true">*</span>
-            </label>
-            <input
-              id="email"
-              name="email"
-              type="email"
-              required
-              placeholder="voce@email.com"
-              aria-required="true"
-              class="w-full rounded-lg border border-border bg-bg px-4 py-3 text-fg placeholder:text-subtle focus:border-accent focus:outline-none focus:ring-1 focus:ring-accent transition-colors duration-200"
-            />
-            <p id="email-error" class="mt-1.5 text-sm text-red-400 hidden" role="alert">
-              Por favor, informe um email válido.
-            </p>
-          </div>
-
-          <button
-            type="submit"
-            id="submit-btn"
-            class="w-full rounded-lg bg-accent px-6 py-4 text-base font-semibold text-white transition-all duration-200 hover:bg-accent-hover active:scale-95 disabled:opacity-60 disabled:cursor-not-allowed"
-          >
-            Receber Ebook Gratuitamente
-          </button>
-
-          <p class="text-center text-xs text-subtle">
-            🔒 Seus dados estão seguros. Sem spam.
-          </p>
-        </form>
+        <p class="text-center text-xs text-subtle mt-4">
+          🔒 Seus dados estão seguros. Sem spam.
+        </p>
       </div>
     </div>
   </section>
@@ -235,57 +206,16 @@ const bookSchema = {
 </BaseLayout>
 
 <script>
-  const form = document.getElementById('ebook-form') as HTMLFormElement;
-  const nomeInput = document.getElementById('nome') as HTMLInputElement;
-  const emailInput = document.getElementById('email') as HTMLInputElement;
-  const nomeError = document.getElementById('nome-error') as HTMLParagraphElement;
-  const emailError = document.getElementById('email-error') as HTMLParagraphElement;
-  const submitBtn = document.getElementById('submit-btn') as HTMLButtonElement;
-
-  function showError(input: HTMLInputElement, errorEl: HTMLParagraphElement) {
-    input.classList.add('border-red-400');
-    errorEl.classList.remove('hidden');
-  }
-
-  function clearError(input: HTMLInputElement, errorEl: HTMLParagraphElement) {
-    input.classList.remove('border-red-400');
-    errorEl.classList.add('hidden');
-  }
-
-  nomeInput.addEventListener('input', () => clearError(nomeInput, nomeError));
-  emailInput.addEventListener('input', () => clearError(emailInput, emailError));
-
-  form.addEventListener('submit', (e) => {
-    e.preventDefault();
-    let valid = true;
-
-    if (!nomeInput.value.trim()) {
-      showError(nomeInput, nomeError);
-      valid = false;
+  // MailerLite — redireciona para /obrigado após cadastro
+  function ml_webform_success_42602049() {
+    try {
+      window.top.location.href = 'https://blog-renda-extra.vercel.app/obrigado';
+    } catch (e) {
+      window.location.href = 'https://blog-renda-extra.vercel.app/obrigado';
     }
-
-    const emailRegex = /^[^\s@]+@[^\s@]+\.[^\s@]+$/;
-    if (!emailInput.value.trim() || !emailRegex.test(emailInput.value)) {
-      showError(emailInput, emailError);
-      valid = false;
-    }
-
-    if (!valid) return;
-
-    submitBtn.disabled = true;
-    submitBtn.textContent = 'Enviando...';
-
-    /*
-      TODO: Substituir por chamada real à API do provedor de email.
-      Exemplo Brevo:
-      fetch('https://api.brevo.com/v3/contacts', { ... })
-      Exemplo MailerLite:
-      fetch('https://connect.mailerlite.com/api/subscribers', { ... })
-    */
-
-    // Redireciona para /obrigado após envio
-    setTimeout(() => {
-      window.location.href = '/obrigado';
-    }, 500);
-  });
+  }
+</script>
+<script src="https://groot.mailerlite.com/js/w/webforms.min.js?v83147fa8ce2d95cb73ece7f28b469519" type="text/javascript"></script>
+<script>
+  fetch("https://assets.mailerlite.com/jsonp/2412147/forms/190300245810218475/takel")
 </script>
