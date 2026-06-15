@@ -205,44 +205,4 @@ const bookSchema = {
   </section>
 </BaseLayout>
 
-<script>
-  const form = document.getElementById('href="https://preview.mailerlite.io/forms/2412147/190300245810218475/share"
-  class="w-full block text-center rounded-lg bg-accent px-6 py-4 text-base font-semibold text-white transition-all duration-200 hover:bg-accent-hover"
->
-  Receber Ebook Gratuitamente
-</a>');
-  const emailInput = document.getElementById('email') as HTMLInputElement;
-  const emailError = document.getElementById('email-error') as HTMLParagraphElement;
-  const submitBtn = document.getElementById('submit-btn') as HTMLButtonElement;
 
-  form?.addEventListener('submit', async (e) => {
-    e.preventDefault();
-
-    const emailRegex = /^[^\s@]+@[^\s@]+\.[^\s@]+$/;
-    if (!emailInput.value.trim() || !emailRegex.test(emailInput.value)) {
-      emailInput.classList.add('border-red-400');
-      emailError?.classList.remove('hidden');
-      return;
-    }
-
-    emailInput.classList.remove('border-red-400');
-    emailError?.classList.add('hidden');
-    submitBtn.disabled = true;
-    submitBtn.textContent = 'Enviando...';
-
-    // Envia para MailerLite em background e redireciona imediatamente
-    const formData = new FormData();
-    formData.append('fields[email]', emailInput.value);
-    formData.append('ml-submit', '1');
-    formData.append('anticsrf', 'true');
-
-    fetch('https://assets.mailerlite.com/jsonp/2412147/forms/190300245810218475/subscribe', {
-      method: 'POST',
-      body: formData,
-      mode: 'no-cors',
-    }).catch(() => {});
-
-    // Redireciona imediatamente sem aguardar resposta
-    window.location.href = '/obrigado';
-  });
-</script>
