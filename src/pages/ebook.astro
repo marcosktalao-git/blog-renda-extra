@@ -226,14 +226,19 @@ const bookSchema = {
     submitBtn.disabled = true;
     submitBtn.textContent = 'Enviando...';
 
-    try {
-      await fetch('/api/subscribe', {
-        method: 'POST',
-        headers: { 'Content-Type': 'application/json' },
-        body: JSON.stringify({ email: emailInput.value }),
-      });
-    } catch (_) {}
+    // Envia para MailerLite em background e redireciona imediatamente
+    const formData = new FormData();
+    formData.append('fields[email]', emailInput.value);
+    formData.append('ml-submit', '1');
+    formData.append('anticsrf', 'true');
 
+    fetch('https://assets.mailerlite.com/jsonp/2412147/forms/190300245810218475/subscribe', {
+      method: 'POST',
+      body: formData,
+      mode: 'no-cors',
+    }).catch(() => {});
+
+    // Redireciona imediatamente sem aguardar resposta
     window.location.href = '/obrigado';
   });
 </script>
