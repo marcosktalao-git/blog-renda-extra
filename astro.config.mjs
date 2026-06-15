@@ -7,7 +7,7 @@ import vercel from '@astrojs/vercel';
 
 export default defineConfig({
   site: 'https://blog-renda-extra.vercel.app',
-  output: 'hybrid',
+  output: 'static',
   adapter: vercel(),
   integrations: [mdx(), sitemap()],
   vite: {
