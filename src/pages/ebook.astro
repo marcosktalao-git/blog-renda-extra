@@ -149,10 +149,8 @@ const bookSchema = {
           Preencha os campos abaixo e o ebook será enviado para o seu email.
         </p>
 
-        <!-- Formulário Formspree — redireciona para /obrigado via _next -->
-        <form action="https://formspree.io/f/xnjywnqd" method="POST" class="space-y-4">
-          <input type="hidden" name="_next" value="https://blog-renda-extra.vercel.app/obrigado" />
-          <input type="hidden" name="_subject" value="Novo lead - Ebook Renda Extra" />
+        <!-- Formulário com fetch para Formspree + redirecionamento via JS -->
+        <form id="ebook-form" class="space-y-4">
           <div>
             <label for="email" class="block text-sm font-medium text-fg mb-1.5">
               Seu melhor email <span class="text-accent" aria-hidden="true">*</span>
@@ -166,14 +164,46 @@ const bookSchema = {
               aria-required="true"
               class="w-full rounded-lg border border-border bg-bg px-4 py-3 text-fg placeholder:text-subtle focus:border-accent focus:outline-none focus:ring-1 focus:ring-accent transition-colors duration-200"
             />
+            <p id="email-error" class="mt-1.5 text-sm text-red-400 hidden">Email inválido.</p>
           </div>
           <button
             type="submit"
+            id="submit-btn"
             class="w-full rounded-lg bg-accent px-6 py-4 text-base font-semibold text-white transition-all duration-200 hover:bg-accent-hover active:scale-95"
           >
             Receber Ebook Gratuitamente
           </button>
         </form>
+
+        <script>
+          document.getElementById('ebook-form').addEventListener('submit', function(e) {
+            e.preventDefault();
+            var email = document.getElementById('email').value;
+            var error = document.getElementById('email-error');
+            var btn = document.getElementById('submit-btn');
+
+            if (!email || !/^[^@]+@[^@]+\.[^@]+$/.test(email)) {
+              error.classList.remove('hidden');
+              return;
+            }
+
+            error.classList.add('hidden');
+            btn.disabled = true;
+            btn.textContent = 'Enviando...';
+
+            fetch('https://formspree.io/f/xnjywnqd', {
+              method: 'POST',
+              headers: { 'Accept': 'application/json', 'Content-Type': 'application/json' },
+              body: JSON.stringify({ email: email, _subject: 'Novo lead - Ebook Renda Extra' })
+            })
+            .then(function() {
+              window.location.href = '/obrigado';
+            })
+            .catch(function() {
+              window.location.href = '/obrigado';
+            });
+          });
+        </script>
 
         <p class="text-center text-xs text-subtle mt-4">
           🔒 Seus dados estão seguros. Sem spam.
