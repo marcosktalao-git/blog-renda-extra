@@ -37,6 +37,11 @@ const { title, description, headline, image, type, keywords, article, breadcrumb
 			href={new URL('rss.xml', Astro.site)}
 		/>
 		<meta name="generator" content={Astro.generator} />
+		<script
+	    async
+	    src={`https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=${import.meta.env.PUBLIC_ADSENSE_CLIENT}`}
+	    crossorigin="anonymous"
+        ></script>
 		<link rel="preconnect" href="https://fonts.googleapis.com" />
 		<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
 		<SEO
