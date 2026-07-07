@@ -65,7 +65,7 @@ Evite botões genéricos como "Clique aqui" ou "Saiba mais". O visitante precisa
 
 ### Kiwify e Hotmart
 
-As duas plataformas têm construtor de página de vendas integrado. Você sobe o produto, preenche os campos e a página já está no ar com checkout integrado. É a opção mais rápida para quem quer vender sem complicação técnica.
+As duas plataformas têm construtor de página de vendas integrado. Você sobe o produto, preenche os campos e a página já está no ar com checkout integrado. É a opção mais rápida para quem quer vender sem complicação técnica. Veja a comparação em [Hotmart ou Kiwify: qual plataforma usar](/blog/hotmart-ou-kiwify-qual-plataforma-usar).
 
 ### Canva
 

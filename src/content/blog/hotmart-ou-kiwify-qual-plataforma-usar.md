@@ -42,7 +42,7 @@ Taxa por venda: varia entre 8% e 10% dependendo do plano.
 
 ## Qual escolher para o primeiro produto
 
-Se você quer simplicidade e rapidez para colocar o primeiro produto no ar: Kiwify.
+Se você quer simplicidade e rapidez para colocar o primeiro produto no ar: Kiwify. Antes de escolher, veja o guia de [como precificar seu produto digital](/blog/como-precificar-seu-produto-digital).
 
 Se você quer acesso a uma base maior de afiliados desde o início: Hotmart.
 

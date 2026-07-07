@@ -18,7 +18,7 @@ A diferenca entre um afiliado que irrita e um que vende esta na abordagem — na
 
 ## Por que o WhatsApp funciona para afiliados
 
-Diferente das redes sociais, onde seu conteudo compete com milhares de outros posts, uma mensagem no WhatsApp chega diretamente para a pessoa. A taxa de abertura de mensagens no WhatsApp supera 90% — muito acima de qualquer outra plataforma.
+Diferente das redes sociais, onde seu conteudo compete com milhares de outros posts, uma mensagem no WhatsApp chega diretamente para a pessoa. A taxa de abertura de mensagens no WhatsApp supera 90% — muito acima de qualquer outra plataforma. Veja tambem o guia de [marketing de afiliados para iniciantes](/blog/marketing-afiliados-para-iniciantes).
 
 Alem disso, o WhatsApp e uma plataforma de relacionamento. As pessoas estao mais receptivas a recomendacoes de quem conhecem do que a anuncios de desconhecidos. Se voce tem credibilidade com seus contatos, uma recomendacao genuina converte muito mais do que um anuncio pago.
 

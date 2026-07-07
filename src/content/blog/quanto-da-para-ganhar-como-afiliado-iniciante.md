@@ -16,7 +16,7 @@ Essa é a pergunta que todo iniciante faz antes de começar. E a resposta honest
 
 ## O que define quanto você vai ganhar
 
-Três fatores principais determinam os ganhos de um afiliado iniciante: o produto escolhido, o canal de divulgação e a consistência.
+Três fatores principais determinam os ganhos de um afiliado iniciante: o produto escolhido, o canal de divulgação e a consistência. Antes de escolher o produto, veja [como escolher produtos para divulgar como afiliado](/blog/como-escolher-produtos-para-divulgar-como-afiliado).
 
 Produto com comissão baixa em canal com pouco tráfego e divulgação irregular gera zero resultado. Produto com comissão de 50% em canal com tráfego crescente e divulgação constante gera resultado real em 60 a 90 dias.
 

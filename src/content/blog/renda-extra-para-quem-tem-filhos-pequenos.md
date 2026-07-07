@@ -40,7 +40,7 @@ A chave é escolher um tema que você já domina. Se você é mãe e sabe organi
 
 ### Pinterest e conteúdo visual agendado
 
-O Pinterest permite agendar pins com antecedência. Você reserva uma tarde no fim de semana para criar 10 pins, agenda para a semana toda e não precisa abrir o aplicativo todos os dias.
+O Pinterest permite agendar pins com antecedência. Você reserva uma tarde no fim de semana para criar 10 pins, agenda para a semana toda e não precisa abrir o aplicativo todos os dias. Veja nosso guia completo de [como usar o Pinterest para gerar renda extra](/blog/como-usar-o-pinterest-para-gerar-renda-extra).
 
 Esse modelo é perfeito para quem tem rotina imprevisível — você trabalha em bloco quando tem tempo, e a publicação acontece automaticamente.
 

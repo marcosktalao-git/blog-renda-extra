@@ -68,7 +68,7 @@ Uma frase direta seguida do botao de compra. Nao use frases fracas como "Clique 
 
 ## Palavras que ajudam e palavras que atrapalham
 
-Palavras que aumentam conversao: pratico, passo a passo, simples, rapido, comprovado, sem experiencia, mesmo que, mesmo sem, voce vai conseguir.
+Palavras que aumentam conversao: pratico, passo a passo, simples, rapido, comprovado, sem experiencia, mesmo que, mesmo sem, voce vai conseguir. Para complementar, veja o guia de [como criar uma landing page que vende](/blog/como-criar-uma-landing-page-que-vende).
 
 Palavras que reduzem credibilidade: incrivel, revolucionario, nunca visto antes, muda vidas, segredo, ganhe muito dinheiro. Soam como hype e ativam o ceticismo do leitor.
 

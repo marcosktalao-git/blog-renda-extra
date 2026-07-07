@@ -28,7 +28,7 @@ Além disso, o preço afeta diretamente sua margem e sua capacidade de pagar afi
 
 ### Precificação por faixa de entrada
 
-Para produtos novos sem histórico de vendas e sem audiência estabelecida, a faixa de R$ 17 a R$ 47 é a mais indicada. Essa faixa tem baixa resistência de compra — o visitante não precisa pensar muito antes de decidir.
+Para produtos novos sem histórico de vendas e sem audiência estabelecida, a faixa de R$ 17 a R$ 47 é a mais indicada. Essa faixa tem baixa resistência de compra — o visitante não precisa pensar muito antes de decidir. Veja o guia de [como vender produto digital para iniciantes](/blog/como-vender-produto-digital).
 
 Use essa faixa para: ebooks, guias práticos, templates e mini cursos de até 2 horas.
 

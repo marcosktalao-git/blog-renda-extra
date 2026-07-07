@@ -46,7 +46,7 @@ Ficar trocando de produto toda semana. Consistência na divulgação de um únic
 
 ## Quantos produtos divulgar ao mesmo tempo
 
-Para quem está começando: um produto principal e no máximo um produto complementar que fale para o mesmo público.
+Para quem está começando: um produto principal e no máximo um produto complementar que fale para o mesmo público. Para ter uma ideia dos ganhos possíveis, veja [quanto dá para ganhar como afiliado iniciante](/blog/quanto-da-para-ganhar-como-afiliado-iniciante).
 
 ## Conclusão
 

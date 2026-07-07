@@ -60,7 +60,7 @@ O Pinterest permite links de afiliado desde que o destino final seja claro e o c
 
 ### Volume minimo para resultados
 
-Para uma conta nova, o minimo recomendado e 5 pins por dia nas primeiras 4 semanas. Isso parece muito, mas a maioria pode ser repin de conteudo relevante de outras contas — nao precisa ser tudo conteudo proprio.
+Para uma conta nova, o minimo recomendado e 5 pins por dia nas primeiras 4 semanas. Isso parece muito, mas a maioria pode ser repin de conteudo relevante de outras contas — nao precisa ser tudo conteudo proprio. Se voce prefere uma abordagem geral, veja [como usar o Pinterest para gerar renda extra](/blog/como-usar-o-pinterest-para-gerar-renda-extra).
 
 A proporcao que funciona bem no inicio: 20% pins proprios com links de afiliado, 80% repins de conteudo relevante do nicho sem link. Isso constroi o historico da conta sem parecer uma conta de spam.
 

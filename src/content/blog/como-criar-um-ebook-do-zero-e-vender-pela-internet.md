@@ -38,7 +38,7 @@ Quando o texto estiver pronto, exporte em PDF. Para o design, use o Canva — te
 
 ## Passo 4: escolher a plataforma de venda
 
-As principais plataformas para vender ebook no Brasil são Hotmart, Kiwify e Monetizze. As três são gratuitas para começar.
+As principais plataformas para vender ebook no Brasil são Hotmart, Kiwify e Monetizze. As três são gratuitas para começar. Veja a comparação completa em [Hotmart ou Kiwify: qual plataforma usar](/blog/hotmart-ou-kiwify-qual-plataforma-usar).
 
 Kiwify é a mais simples para quem está começando. Em menos de uma hora você cria a página de vendas, sobe o arquivo e já tem um link para divulgar.
 

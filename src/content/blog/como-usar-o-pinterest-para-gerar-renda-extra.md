@@ -64,7 +64,7 @@ No campo de destino do pin, coloque seu link de afiliado direto. O Pinterest per
 
 ## Quantos pins publicar por semana
 
-Para quem está começando: de 5 a 10 pins por semana é suficiente. Você pode criar os pins no fim de semana e agendar para a semana toda usando o próprio agendador do Pinterest — gratuito para contas business.
+Para quem está começando: de 5 a 10 pins por semana é suficiente. Você pode criar os pins no fim de semana e agendar para a semana toda usando o próprio agendador do Pinterest — gratuito para contas business. Para uma estratégia mais focada em afiliados, veja [Pinterest para afiliados: como gerar cliques sem aparecer](/blog/pinterest-para-afiliados-como-gerar-cliques-sem-aparecer).
 
 Consistência importa mais do que volume. Publicar 5 pins por semana durante 3 meses gera mais resultado do que publicar 50 pins em uma semana e sumir.
 

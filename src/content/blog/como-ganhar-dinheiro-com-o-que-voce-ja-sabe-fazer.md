@@ -62,7 +62,7 @@ Se criar um produto próprio parece difícil agora, você pode divulgar produtos
 
 ## Como validar antes de criar
 
-O erro mais comum é criar o produto completo antes de saber se alguém vai comprar.
+O erro mais comum é criar o produto completo antes de saber se alguém vai comprar. Também vale a pena conferir o guia de [como criar um ebook do zero e vender pela internet](/blog/como-criar-um-ebook-do-zero-e-vender-pela-internet).
 
 A forma mais simples de validar: mande mensagem para 10 pessoas que você conhece e pergunte se elas pagariam R$ 27 por um guia que resolve o problema X. Se 2 ou 3 disserem que sim, você tem validação suficiente para criar.
 

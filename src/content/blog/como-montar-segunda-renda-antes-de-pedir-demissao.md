@@ -30,7 +30,7 @@ Com 1 a 2 horas por dia, você tem 30 horas por mês. Com 30 horas mensais bem d
 
 ### Fase 1: escolha e validação (mês 1 e 2)
 
-Escolha um caminho: afiliado, produto digital próprio ou serviço freelance. Não tente os três ao mesmo tempo.
+Escolha um caminho: afiliado, produto digital próprio ou serviço freelance. Não tente os três ao mesmo tempo. Veja o passo a passo de [como ter renda extra sendo CLT](/blog/como-ter-renda-extra-sendo-clt).
 
 Nos primeiros dois meses, o objetivo não é ganhar dinheiro — é aprender como o processo funciona.
 

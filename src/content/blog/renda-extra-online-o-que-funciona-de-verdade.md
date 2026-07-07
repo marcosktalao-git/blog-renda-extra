@@ -28,7 +28,7 @@ O que funciona para esse perfil precisa ser assíncrono — você trabalha num m
 
 ### Marketing de afiliados com conteúdo evergreen
 
-Conteúdo evergreen é aquele que não perde valor com o tempo. Um artigo explicando como declarar o imposto de renda, um vídeo ensinando a fazer algo prático, uma postagem respondendo uma dúvida comum.
+Conteúdo evergreen é aquele que não perde valor com o tempo. Um artigo explicando como declarar o imposto de renda, um vídeo ensinando a fazer algo prático, uma postagem respondendo uma dúvida comum. Se você quer um guia completo, leia nosso artigo sobre [como ter renda extra sendo CLT](/blog/como-ter-renda-extra-sendo-clt).
 
 Você cria uma vez. O conteúdo continua sendo encontrado por meses ou anos. E cada vez que alguém compra pelo seu link, você recebe comissão.
 

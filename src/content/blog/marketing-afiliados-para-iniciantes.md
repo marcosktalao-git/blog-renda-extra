@@ -30,7 +30,7 @@ Afiliado é quem indica o produto de outra pessoa e ganha comissão por cada ven
 
 ## Escolhendo bons produtos
 
-Antes de promover qualquer coisa, verifique:
+Antes de promover qualquer coisa, verifique. Para um guia mais detalhado sobre esse processo, veja [como escolher produtos para divulgar como afiliado](/blog/como-escolher-produtos-para-divulgar-como-afiliado).
 
 - **Página de vendas profissional** — se você não compraria, não indique
 - **Comissão justa** — mínimo 40% para valer o esforço

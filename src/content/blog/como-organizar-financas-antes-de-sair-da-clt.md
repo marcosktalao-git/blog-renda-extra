@@ -64,7 +64,7 @@ Plano de saúde: se era custeado pela empresa, precisará contratar um plano ind
 
 ## Passo 5: defina o número que precisa faturar
 
-Com os gastos mapeados e os benefícios perdidos calculados, você tem o número real que precisa faturar todo mês para manter o padrão de vida atual.
+Com os gastos mapeados e os benefícios perdidos calculados, você tem o número real que precisa faturar todo mês para manter o padrão de vida atual. Veja também [quanto você precisa ganhar para sair da CLT com segurança](/blog/quanto-precisa-ganhar-para-sair-da-clt).
 
 Esse número é o seu piso. Antes de sair da CLT, sua renda alternativa precisa atingir esse piso de forma consistente — por pelo menos 3 meses seguidos.
 

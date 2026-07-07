@@ -54,7 +54,7 @@ Se a sua renda digital é inconsistente, ainda não é hora. Se você não tem r
 
 ## O meio-termo que muita gente ignora
 
-Antes de pedir demissão, existe uma terceira via: negociar uma redução de jornada ou trabalho remoto com o empregador atual.
+Antes de pedir demissão, existe uma terceira via: negociar uma redução de jornada ou trabalho remoto com o empregador atual. Para se preparar financeiramente, veja [como organizar as finanças antes de sair da CLT](/blog/como-organizar-financas-antes-de-sair-da-clt).
 
 Com mais tempo disponível e ainda com a segurança do salário, você acelera a construção da renda digital sem o risco de precisar do dinheiro imediatamente.
 

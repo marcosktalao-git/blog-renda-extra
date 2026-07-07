@@ -76,7 +76,7 @@ Abrir MEI para renda de afiliado tem uma vantagem: algumas plataformas de anúnc
 
 ## Como abrir o MEI
 
-O processo é simples e gratuito. Acesse o Portal do Empreendedor em gov.br, clique em "Quero ser MEI", preencha os dados pessoais, escolha a atividade principal e confirme. Em menos de 10 minutos você tem o CNPJ ativo.
+O processo é simples e gratuito. Acesse o Portal do Empreendedor em gov.br, clique em "Quero ser MEI", preencha os dados pessoais, escolha a atividade principal e confirme. Em menos de 10 minutos você tem o CNPJ ativo. Antes de decidir, veja [como organizar as finanças antes de sair da CLT](/blog/como-organizar-financas-antes-de-sair-da-clt).
 
 Depois da abertura, configure o pagamento mensal do DAS — pode ser feito por débito automático ou boleto gerado no portal.
 

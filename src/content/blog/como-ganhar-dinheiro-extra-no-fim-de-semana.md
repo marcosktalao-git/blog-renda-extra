@@ -18,7 +18,7 @@ Se você trabalha de carteira assinada e está buscando uma forma de complementa
 
 ## O que é possível fazer no fim de semana (de casa mesmo)
 
-Antes de qualquer coisa: esqueça promessas de enriquecimento rápido. O que funciona de verdade exige consistência, mas não exige que você trabalhe o dia inteiro no sábado e no domingo.
+Antes de qualquer coisa: esqueça promessas de enriquecimento rápido. O que funciona de verdade exige consistência, mas não exige que você trabalhe o dia inteiro no sábado e no domingo. Para uma visão geral, veja nosso artigo sobre [renda extra online: o que funciona de verdade](/blog/renda-extra-online-o-que-funciona-de-verdade).
 
 Com 2 a 4 horas bem aproveitadas por semana, já é possível construir uma fonte de renda extra real.
 

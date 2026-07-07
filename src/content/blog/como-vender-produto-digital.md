@@ -40,7 +40,7 @@ Todas permitem criar página de vendas, checkout e área de membros sem você pr
 
 ## Precificação honesta
 
-Para o primeiro produto, R$ 27 a R$ 97 costuma converter bem. Não subestime o valor — se resolve um problema real, as pessoas pagam.
+Para o primeiro produto, R$ 27 a R$ 97 costuma converter bem. Não subestime o valor — se resolve um problema real, as pessoas pagam. Veja o guia completo de [como precificar seu produto digital](/blog/como-precificar-seu-produto-digital).
 
 Depois que tiver vendas e depoimentos, você pode criar uma versão premium ou um pacote.
 
