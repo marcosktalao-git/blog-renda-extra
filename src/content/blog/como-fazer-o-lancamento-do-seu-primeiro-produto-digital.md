@@ -85,11 +85,45 @@ Pergunte aos compradores: o que mais gostaram? O que poderia melhorar? Use o fee
 
 Dependendo do resultado, planeje: uma versão 2.0 do mesmo produto, um produto complementar (quem comprou o ebook pode comprar a planilha), ou um produto de nível mais avançado.
 
+## Erros comuns no lançamento do primeiro produto
+
+### Lançar sem audiência
+
+Muita gente cria o produto, coloca no ar e espera as vendas aparecerem sem ter construído audiência ou lista de contatos antes. Lançar sem ninguém para comprar é o erro mais comum. O pré-lançamento existe justamente para construir esse público antes de abrir as vendas.
+
+### Preço de lançamento muito baixo
+
+Colocar o produto a R$ 9,90 para "garantir vendas" desvaloriza o conteúdo e atrai compradores problemáticos. O preço de lançamento deve ser atrativo, mas não irreal. Uma faixa de 30% abaixo do preço regular é o padrão que funciona.
+
+### Parar de divulgar depois da primeira semana
+
+A maioria das vendas de um produto digital não acontece na semana de lançamento — acontece nos meses seguintes, com tráfego orgânico. Parar de divulgar depois da primeira semana é deixar vendas na mesa.
+
+### Ignorar os compradores depois da venda
+
+Quem compra seu produto na primeira semana é seu maior ativo. Eles podem dar depoimentos, recomendar para amigos e comprar seus próximos produtos. Ignorá-los depois da venda é perder o potencial mais valioso do lançamento.
+
+Para evitar outros enganos na criação e venda, confira os [erros que matam a venda do seu primeiro produto digital](/blog/erros-que-matam-a-venda-do-seu-primeiro-produto-digital).
+
+## Exemplo prático: o lançamento do ebook de Carla
+
+Carla criou um ebook de 30 páginas chamado "Finanças para quem ganha pouco", vendido a R$ 37. Ela seguiu o passo a passo deste guia.
+
+**Pré-lançamento (10 dias antes):** Carla publicou 3 posts no Instagram sobre o problema de chegar no fim do mês sem dinheiro. Criou uma lista de espera com Google Forms e conseguiu 23 cadastros. Ofereceu desconto de R$ 27 para os 10 primeiros compradores.
+
+**Dia 1 — abertura:** Publicou um artigo completo no blog explicando o método do ebook. Enviou mensagem para a lista de espera. Postou stories mostrando a capa do ebook e o link de compra. Resultado do dia 1: 7 vendas.
+
+**Dias 2 a 7:** Carla respondeu todas as dúvidas nos comentários e stories. Publicou prints de pessoas que compraram (com autorização). Mostrou uma página do ebook nos stories. Resultado da semana: 18 vendas no total, R$ 666 de faturamento.
+
+**Dias 8 a 30:** Carla continuou publicando conteúdo sobre educação financeira no blog e Pinterest. O artigo do lançamento continuou gerando visitas. Resultado do primeiro mês: 34 vendas, R$ 1.258 de faturamento.
+
+Carla não fez webinar, não usou tráfego pago, não contratou ninguém. Seguiu a sequência de pré-lançamento, abertura e pós-lançamento com consistência. O resultado veio do planejamento, não do tamanho do lançamento.
+
 ## Estratégias de divulgação para o lançamento
 
 ### Blog: artigo completo
 
-Publique um artigo detalhado sobre o problema que o produto resolve. Inclua exemplos práticos, dados e um CTA no final. O artigo continua gerando tráfego orgânico por meses.
+Publique um artigo detalhado sobre o problema que o produto resolve. Inclua exemplos práticos, dados e um CTA no final. O artigo continua gerando tráfego orgânico por meses. Se você quer saber como definir o melhor valor para o seu produto, veja [como precificar seu produto digital](/blog/como-precificar-seu-produto-digital).
 
 ### WhatsApp: divulgação segmentada
 
@@ -121,6 +155,8 @@ De onde vieram os compradores. Isso mostra qual canal de divulgação funciona m
 
 Qualitativo. Pergunte por que compraram e o que acharam. Use para melhorar o produto e divulgações futuras.
 
+Antes de lançar, é importante também montar um plano de divulgação mais amplo — veja [como montar sua segunda renda antes de pedir demissão](/blog/como-montar-segunda-renda-antes-de-pedir-demissao).
+
 ## Perguntas Frequentes
 
 ### Preciso fazer um lançamento ao vivo?
@@ -137,10 +173,10 @@ Uma semana intensa de divulgação, seguida de conteúdo contínuo. O pico de ve
 
 ### Preciso de lista de e-mail para lançar?
 
-Não é obrigatório, mas ajuda muito. Ter uma lista de 50 a 100 pessoas que já consomem seu conteúdo aumenta significativamente as vendas de lançamento.
+Não é obrigatório, mas ajuda muito. Ter uma lista de 50 a 100 pessoas que já consomem seu conteúdo aumenta significativamente as vendas de lançamento. Mesmo uma lista pequena e engajada faz diferença nos primeiros dias.
 
 ## Conclusão
 
 O lançamento do primeiro produto digital não precisa ser complexo. Pré-lançamento com conteúdo sobre o problema, abertura com divulgação em todos os canais, semana de lançamento com prova social e suporte, e pós-lançamento com conteúdo perene.
 
-Não espere o lançamento perfeito. Publique, divulgue, aprenda com os resultados e melhore para o próximo. Cada lançamento ensina algo novo sobre seu público e sobre o mercado.
+Não espere o lançamento perfeito. Publique, divulgue, aprenda com os resultados e melhore para o próximo. Cada lançamento ensina algo novo sobre seu público, sobre o mercado e sobre a sua própria capacidade de entrega.
