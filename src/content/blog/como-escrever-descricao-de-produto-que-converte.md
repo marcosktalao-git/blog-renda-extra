@@ -62,6 +62,8 @@ Um ou dois depoimentos curtos de compradores reais. Se voce ainda nao tem depoim
 
 Liste as tres objecoes mais comuns do seu publico e responda cada uma em uma frase. Para o nicho de renda extra: "Nao preciso de experiencia previa", "Funciona mesmo para quem tem pouco tempo", "Nao precisa aparecer na internet".
 
+Se voce quer aprender a escolher os produtos certos para divulgar, veja o guia de [como escolher produtos para divulgar como afiliado](/blog/como-escolher-produtos-para-divulgar-como-afiliado). A escolha do produto certo torna a descricao muito mais facil de escrever.
+
 ### CTA final
 
 Uma frase direta seguida do botao de compra. Nao use frases fracas como "Clique aqui para saber mais". Use frases que descrevem a acao e o beneficio: "Quero comecar minha renda extra agora" ou "Acessar o metodo por R$ 47".
@@ -73,6 +75,44 @@ Palavras que aumentam conversao: pratico, passo a passo, simples, rapido, compro
 Palavras que reduzem credibilidade: incrivel, revolucionario, nunca visto antes, muda vidas, segredo, ganhe muito dinheiro. Soam como hype e ativam o ceticismo do leitor.
 
 A regra e simples: seja especifico e realista. Promessas vagas nao convencem. Resultados especificos e alcancaveis sim.
+
+## Erros comuns ao escrever descricao de produto
+
+### Escrever para todo mundo, ou seja, para ninguem
+
+Descricoes genericas que tentam agradar todo mundo acabam nao falando com ninguem. Se voce diz "para quem quer ganhar dinheiro", isso pode ser qualquer pessoa. Mas "para quem trabalha de CLT e quer uma segunda renda sem aparecer" e um recorte especifico que atrai o publico certo. Quando voce delimita o publico, quem nao se encaixa sai — mas quem se encaixa se sente acolhido.
+
+### Listar caracteristicas em vez de beneficios
+
+"10 modulos e 50 aulas" e caracteristica. "Va do zero a sua primeira venda como afiliado em 30 dias" e beneficio. O comprador nao compra horas de conteudo — compra o resultado que o conteudo entrega. Reveja cada frase da sua descricao e pergunte: isso e uma caracteristica ou um beneficio?
+
+### Nao responder as objecoes
+
+O comprador sempre tem duvidas antes de comprar: funciona para mim? Vou ter tempo? Preciso de experiencia? Se a descricao nao responde essas perguntas, ele nao compra. Liste as tres objecoes mais comuns do seu nicho e inclua as respostas na descricao. Isso reduz a inseguranca e aumenta a conversao.
+
+### Usar tom de vendedor em vez de tom de conselheiro
+
+Linguagem de "compre agora, oferta imperdivel, nao perca essa chance" ativa defesas no leitor. Em vez disso, use um tom de quem compartilha uma solucao util. "Se voce esta cansado de chegar no fim do mes sem dinheiro, esse guia pode te ajudar" funciona melhor do que "Voce esta perdendo dinheiro todos os dias sem esse curso".
+
+Se voce quer evitar outros equivocos, confira os [erros que todo afiliado iniciante comete](/blog/erros-que-todo-afiliado-iniciante-comete).
+
+## Exemplo pratico: descricao de um curso de afiliados
+
+Vamos aplicar a estrutura a um curso hipotetico chamado "Afiliado na Pratica: Sua Primeira Comissao em 30 Dias", vendido a R$ 67.
+
+**Paragrafo 1 — problema:** "Voce trabalha o mes inteiro, o salario acaba antes do mes terminar e a ideia de uma renda extra parece cada vez mais distante. Ja tentou algumas coisas na internet mas nada deu resultado ate agora."
+
+**Paragrafo 2 — por que e dificil:** "Nao e porque voce nao e capaz. E porque a maioria dos metodos por ai pulam etapas importantes ou exigem coisas que voce nao tem — seguidores, experiencia ou dinheiro para anuncios."
+
+**Paragrafo 3 — solucao:** "O curso Afiliado na Pratica foi feito exatamente para quem esta na sua situacao. Sao 12 aulas diretas que mostram o passo a passo para encontrar um produto, divulgar sem gastar dinheiro e fazer a primeira venda."
+
+**Lista de beneficios:** "Aprender a escolher o produto certo para o seu perfil sem perder tempo", "Descobrir como divulgar sem aparecer nem ter seguidores", "Entender o que fazer quando as vendas nao vem sem entrar em desespero", "Ter acesso a um grupo de alunos para tirar duvidas".
+
+**Prova social:** "Nunca tinha vendido nada online. Fiz o curso e em 22 dias consegui minha primeira comissao de R$ 47. — Marcos S., SP"
+
+**Remocao de objecoes:** "Nao precisa de experiencia, o curso comeca do zero. Nao precisa aparecer, as estrategias sao todas anonimas. Nao precisa de investimento, a divulgacao e organica."
+
+**CTA:** "Quero comecar como afiliado por R$ 67"
 
 ## Como adaptar a descricao para diferentes formatos
 
@@ -89,6 +129,24 @@ Se voce tem trafego chegando mas poucos cliques no botao de compra, o problema g
 Se as pessoas clicam no botao mas nao finalizam a compra, o problema pode estar no preco, na pagina de checkout ou nas objecoes que nao foram respondidas na descricao.
 
 Mude um elemento por vez e acompanhe o resultado por pelo menos 7 dias antes de fazer outra alteracao. Mudar tudo ao mesmo tempo impede que voce saiba o que gerou a melhora.
+
+## Perguntas frequentes sobre descricao de produto
+
+### Qual o tamanho ideal de uma descricao de produto?
+
+Nao existe um numero fixo. O ideal e escrever o suficiente para responder todas as objecoes do comprador. Para produtos de R$ 27 a R$ 47, descricoes mais curtas funcionam. Para produtos acima de R$ 100, descricoes mais longas com mais detalhes e prova social tendem a converter melhor.
+
+### Devo escrever a descricao antes ou depois de criar o produto?
+
+Depois. Quando o produto esta pronto, voce sabe exatamente o que entrega, quais sao os resultados reais e quais objecoes aparecem. Escrever a descricao antes pode gerar promessas que o produto nao cumpre.
+
+### Posso usar a mesma descricao em varios lugares?
+
+Pode, mas adapte o formato para cada canal. Uma descricao de pagina de vendas e longa e detalhada. A mesma descricao resumida para o WhatsApp ou Instagram precisa ser mais direta. O problema e o beneficio principal devem ser os mesmos — o que muda e o tamanho.
+
+### Como eu sei se minha descricao esta boa?
+
+O melhor teste e o comportamento real dos compradores. Se as pessoas estao comprando, a descricao esta funcionando. Se nao estao, teste mudar o primeiro paragrafo, os beneficios listados ou a remocao de objecoes. Dados reais sempre vencem opinioes.
 
 ## Conclusao
 

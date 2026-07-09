@@ -46,6 +46,8 @@ Quer manter acesso a benefícios previdenciários com custo baixo — o DAS MEI 
 
 A atividade precisa estar na lista de atividades permitidas para MEI — nem todas as profissões podem se formalizar como MEI. Vale verificar no portal do governo antes de abrir.
 
+Para entender melhor se sua renda atual já sustenta a saída da CLT, veja [quanto você precisa ganhar para sair da CLT](/blog/quanto-precisa-ganhar-para-sair-da-clt).
+
 ## Quando o autônomo faz mais sentido
 
 Trabalhar como autônomo sem abrir MEI pode ser mais adequado para quem:
@@ -72,13 +74,57 @@ Uma dúvida comum de quem trabalha com marketing de afiliados é se precisa de M
 
 A resposta prática: as plataformas pagam para pessoa física sem exigir MEI. Mas os rendimentos precisam ser declarados no Imposto de Renda como pessoa física — omitir esses valores é sonegação.
 
-Abrir MEI para renda de afiliado tem uma vantagem: algumas plataformas de anúncios e ferramentas de marketing oferecem condições melhores para pessoa jurídica. Mas não é obrigatório para começar.
+Abrir MEI para renda de afiliado tem uma vantagem: algumas plataformas de anúncios e ferramentas de marketing oferecem condições melhores para pessoa jurídica. Se você atua em um nicho específico de afiliados, vale entender como funciona o [afiliado de nicho e por que ele converte mais](/blog/afiliado-de-nicho-por-que-funciona-melhor). Mas não é obrigatório para começar.
+
+## Erros comuns ao escolher entre MEI e autônomo
+
+### Achar que autônomo não paga imposto
+
+Muita gente acredita que trabalhar como autônomo significa não declarar renda. Na prática, o autônomo também precisa declarar os rendimentos no Imposto de Renda e contribuir ao INSS. A diferença é que não há um boleto mensal fixo como o DAS — mas a obrigação fiscal existe e ignorá-la gera multa e problemas com a Receita.
+
+### Escolher MEI sem verificar se a atividade é permitida
+
+Nem toda profissão pode ser MEI. Profissões regulamentadas como medicina, direito, engenharia, psicologia e odontologia não estão na lista de atividades permitidas. Antes de abrir o MEI, consulte a lista oficial no portal do empreendedor. Tentar registrar uma atividade não permitida pode levar ao cancelamento do CNPJ.
+
+### Ultrapassar o limite de faturamento sem planejamento
+
+O limite do MEI é de R$ 81 mil por ano. Se você ultrapassar, precisa migrar para Microempresa (ME). O ideal é monitorar o faturamento mês a mês e, se perceber que vai estourar o limite, planejar a transição com antecedência — em vez de ser pego de surpresa no meio do ano.
+
+### Deixar de emitir notas fiscais
+
+Muitos MEIs iniciantes não emitem nota fiscal por acharem que não precisam ou por preguiça. Isso gera problemas com clientes jurídicos que precisam da nota para contabilidade e pode levar a multas. Emita nota fiscal sempre que o cliente solicitar ou quando a atividade exigir.
+
+## Exemplo prático: MEI ou autônomo para diferentes perfis
+
+**Perfil 1 — Clara, designer freelancer:** Clara pediu demissão da CLT e vai trabalhar como designer para pequenas empresas. O faturamento estimado é de R$ 4.000 por mês (R$ 48 mil por ano, abaixo do limite do MEI). Ela precisa emitir nota fiscal para seus clientes. A melhor escolha é MEI: custo fixo baixo de R$ 71 por mês, emissão de nota fiscal permitida e INSS incluso.
+
+**Perfil 2 — Rafael, engenheiro consultor:** Rafael saiu da CLT e presta consultoria para construtoras. Engenheiros não podem ser MEI. Ele precisa trabalhar como autônomo, emitir nota fiscal como pessoa física e contribuir ao INSS via carnê-leão com alíquota de 20%. A escolha aqui não é opcional — a profissão determina o regime.
+
+**Perfil 3 — Juliana, afiliada digital:** Juliana ganha comissões de afiliado pela Hotmart e Kiwify. O faturamento médio é de R$ 2.500 por mês (R$ 30 mil por ano). Ela não precisa emitir nota fiscal porque as plataformas processam os pagamentos. Ela pode optar por receber como pessoa física sem abrir MEI, declarando os rendimentos no Imposto de Renda. A vantagem de abrir MEI seria apenas se ela quisesse acessar benefícios previdenciários com custo fixo baixo.
 
 ## Como abrir o MEI
 
 O processo é simples e gratuito. Acesse o Portal do Empreendedor em gov.br, clique em "Quero ser MEI", preencha os dados pessoais, escolha a atividade principal e confirme. Em menos de 10 minutos você tem o CNPJ ativo. Antes de decidir, veja [como organizar as finanças antes de sair da CLT](/blog/como-organizar-financas-antes-de-sair-da-clt).
 
 Depois da abertura, configure o pagamento mensal do DAS — pode ser feito por débito automático ou boleto gerado no portal.
+
+## Perguntas frequentes sobre MEI e autônomo
+
+### Qual a diferença prática no bolso entre MEI e autônomo?
+
+No MEI, você paga um valor fixo mensal de cerca de R$ 71 (INSS + ISS/ICMS). Como autônomo, a alíquota do INSS é de 20% sobre o rendimento — em R$ 4.000 mensais, seriam R$ 800 de INSS. Para quem ganha até R$ 6.750 por mês, o MEI é significativamente mais barato.
+
+### Preciso de contador para abrir MEI?
+
+Não. A abertura do MEI é feita online pelo próprio empreendedor em minutos. Um contador pode ser útil para orientar sobre a categoria correta de atividade, mas não é obrigatório nem para a abertura nem para a manutenção mensal.
+
+### O que acontece se eu ultrapassar o limite do MEI?
+
+Você precisa migrar para Microempresa (ME) e muda para o regime tributário Simples Nacional. O faturamento excedente também precisa ser regularizado. O ideal é acompanhar o faturamento mensalmente e fazer a migração planejada antes de ultrapassar o limite.
+
+### Posso ter MEI e receber como afiliado ao mesmo tempo?
+
+Sim. O MEI pode receber de plataformas de afiliados normalmente. A recomendação é que a atividade do MEI seja relacionada ao marketing digital ou à sua área de atuação. Consulte um contador para definir a atividade correta no cadastro.
 
 ## Conclusão
 
