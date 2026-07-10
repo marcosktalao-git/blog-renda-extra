@@ -13,9 +13,9 @@ affiliate_cta:
   url: "https://go.hotmart.com/D106311801Y?dp=1"
 ---
 
-Muitos afiliados divulgam links e torcem para vender. Não acompanham dados, não sabem quantas pessoas clicaram, não entendem por que uma divulgação vendeu e outra não. É como pilotar de olhos fechados.
+Muitos afiliados divulgam links e torcem para vender. Não acompanham dados, não sabem quantas pessoas clicaram nem por que uma divulgação vendeu e outra não. É como pilotar de olhos fechados.
 
-Analisar métricas não é para virar estatístico. É para responder perguntas simples: quantas pessoas viram meu link, quantas clicaram, quantas compraram e onde está o gargalo.
+Analisar métricas responde perguntas simples: quantas pessoas viram meu link, quantas clicaram, quantas compraram e onde está o gargalo.
 
 ## As 4 métricas essenciais que todo afiliado precisa acompanhar
 
@@ -27,7 +27,7 @@ Quantas pessoas clicaram no seu link de afiliado. Essa métrica mostra se seu co
 
 ### Taxa de conversão
 
-Porcentagem de cliques que viraram venda. Se 100 pessoas clicaram e 3 compraram, a taxa de conversão é de 3%. Cada produto e cada público têm taxas diferentes. Produtos de nicho convertem melhor (5% a 10%). Produtos de massa convertem pior (1% a 3%).
+Porcentagem de cliques que se converteram em venda. Se 100 pessoas clicaram e 3 compraram, a taxa de conversão é de 3%. Cada produto e cada público têm taxas diferentes. Produtos de nicho convertem melhor (5% a 10%). Produtos de massa convertem pior (1% a 3%).
 
 ### Comissão média por venda
 
@@ -65,17 +65,13 @@ Os números por si só não dizem nada. O que importa é a relação entre eles 
 
 Se muitas pessoas clicam mas poucas compram, o problema pode estar na página de vendas, no preço ou no alinhamento entre seu conteúdo e a promessa do produto.
 
-Teste divulgar produtos mais baratos (menos objeção), ou melhore a forma como você apresenta a recomendação no conteúdo.
+Teste divulgar produtos mais baratos (menos objeção) ou melhore a forma como você apresenta a recomendação no conteúdo.
 
 ### O que significa muitos cliques e zero vendas
 
 Pode ser tráfego desqualificado — pessoas curiosas mas sem intenção de compra. Pode ser página de vendas confusa. Pode ser que o produto não resolve o problema que você descreveu.
 
 Analise a origem dos cliques. Se o tráfego veio de um post sobre "planilha de orçamento" e o produto é um "curso de investimentos", há desalinhamento.
-
-### O que significa vendas sem cliques aparentes
-
-Algumas plataformas registram a venda sem link intermediário quando o comprador já conhece o produto. Se isso acontece, seu conteúdo está gerando vendas indiretas — o que é positivo.
 
 ### Tendência: o indicador mais importante
 
@@ -129,7 +125,7 @@ Com 20 cliques e 0 vendas, não dá para concluir que o produto é ruim. A amost
 
 ### Erro 2: comparar produtos de categorias diferentes
 
-Um curso de R$ 497 tem taxa de conversão naturalmente menor que um ebook de R$ 27. Comparar os dois lado a lado não faz sentido. Compare produtos similares em faixa de preço e público parecidos.
+Um curso de R$ 497 tem taxa de conversão naturalmente menor que um ebook de R$ 27. Comparar os dois lado a lado não faz sentido. Compare produtos similares em faixa de preço e públicos parecidos.
 
 ### Erro 3: ignorar a sazonalidade
 
@@ -141,25 +137,21 @@ Tráfego pago geralmente converte pior no primeiro clique, mas pode ser escalado
 
 ## Exemplo prático: como Maria usou as métricas para triplicar as vendas
 
-Maria é afiliada de um curso de organização financeira há 3 meses. No primeiro mês, ela divulgou o link em 10 stories no Instagram e em um artigo no blog. Teve 320 cliques e 2 vendas — taxa de conversão de 0,62%.
+Maria é afiliada de um curso de organização financeira há 3 meses. No primeiro mês, divulgou o link em stories no Instagram e em um artigo no blog. Teve 320 cliques e 2 vendas — taxa de conversão de 0,62%.
 
-Ela achou que o problema era o produto. Antes de trocar, resolveu analisar as métricas mais a fundo.
+Ela achou que o problema era o produto. Antes de trocar, resolveu analisar as métricas. No painel da Hotmart, viu que os 320 cliques vinham de duas origens: 200 do Instagram (0 vendas) e 120 do blog (2 vendas, conversão de 1,66%).
 
-No painel da Hotmart, ela viu que os 320 cliques vinham de duas origens: 200 do Instagram e 120 do blog. As 2 vendas vieram do blog. Taxa de conversão do Instagram: 0%. Taxa de conversão do blog: 1,66%.
+Maria percebeu que o problema era a origem, não o produto. O tráfego do Instagram clicava por curiosidade; o do blog já buscava solução.
 
-Maria percebeu que o problema não era o produto — era a origem. O tráfego do Instagram clicava por curiosidade, sem intenção de compra. O tráfego do blog já chegava procurando solução.
+Ela fez três ajustes:
 
-Ela então fez três ajustes:
+1. Mudou a abordagem no Instagram: em vez de "link na bio", passou a contar histórias de antes e depois.
 
-1. Mudou a abordagem no Instagram: em vez de "link na bio", passou a contar histórias de antes e depois que geravam curiosidade sobre o método.
+2. Publicou mais dois artigos no blog sobre tópicos complementares ao curso.
 
-2. Publicou mais dois artigos no blog sobre tópicos complementares ao curso, cada um com seu link de afiliado.
+3. Criou um lead magnet gratuito (planilha de orçamento) para capturar e-mails.
 
-3. Criou um lead magnet gratuito (planilha de orçamento) para capturar e-mails e enviar recomendações para quem já demonstrou interesse.
-
-No terceiro mês, Maria teve 580 cliques e 14 vendas — taxa de conversão de 2,4%. A receita saltou de R$ 100 para R$ 700 mensais.
-
-O que mudou não foi o produto nem o preço. Foi a qualidade do tráfego e o uso dos dados para tomar decisões.
+No terceiro mês, Maria teve 580 cliques e 14 vendas — conversão de 2,4%. A receita saltou de R$ 100 para R$ 700 mensais. O que mudou não foi o produto, mas a qualidade do tráfego e o uso dos dados.
 
 Para entender melhor como escolher produtos com potencial de conversão, veja o guia de [como escolher produtos para divulgar como afiliado](/blog/como-escolher-produtos-para-divulgar-como-afiliado) e também [quanto dá para ganhar como afiliado iniciante no Brasil](/blog/quanto-da-para-ganhar-como-afiliado-iniciante) para ter expectativas realistas.
 
@@ -167,11 +159,11 @@ Para entender melhor como escolher produtos com potencial de conversão, veja o 
 
 ### Qual a taxa de conversão média para links de afiliado?
 
-A média geral é de 1% a 3% (1 a 3 vendas para cada 100 cliques). Produtos de nicho bem recomendados podem chegar a 5% a 10%. Produtos de massa ou caros tendem a ter taxas menores.
+A média geral é de 1% a 3%. Produtos de nicho bem recomendados chegam a 5% a 10%. Produtos de massa ou caros tendem a ter taxas menores.
 
 ### Quantos cliques preciso gerar para fazer uma venda?
 
-Depende do produto. Com taxa de conversão de 2%, você precisa de 50 cliques para cada venda. Se a comissão é de R$ 20, cada clique vale R$ 0,40. Se a comissão é de R$ 100, cada clique vale R$ 2.
+Depende do produto. Com conversão de 2%, você precisa de 50 cliques por venda. Se a comissão é de R$ 20, cada clique vale R$ 0,40. Se é de R$ 100, cada clique vale R$ 2.
 
 ### Como saber se o problema é meu conteúdo ou o produto?
 
@@ -179,24 +171,24 @@ Divulgue o mesmo produto com dois conteúdos diferentes. Se ambos não convertem
 
 ### Preciso de ferramentas pagas para acompanhar métricas?
 
-Não. O painel da Hotmart ou Kiwify já mostra os dados essenciais. Google Analytics é gratuito. Bitly é gratuito. Ferramentas pagas são para quem já tem escala e precisa de análises mais avançadas.
+Não. O painel da Hotmart ou Kiwify já mostra os dados essenciais. Google Analytics e Bitly são gratuitos. Ferramentas pagas são para quem já tem escala.
 
 ### Com quantos cliques posso começar a tirar conclusões?
 
-Com menos de 100 cliques, qualquer conclusão é precipitada. Espere acumular pelo menos 100 cliques por produto ou por canal antes de decidir se algo funciona ou não.
+Espere acumular pelo menos 100 cliques por produto ou canal antes de decidir se algo funciona.
 
 ### Devo desistir de um produto que não converteu nas primeiras 50 visitas?
 
-Não necessariamente. Teste com outra abordagem de conteúdo, outro público ou outra época do ano. Às vezes o problema não é o produto — é como você está apresentando ele para as pessoas erradas.
+Não. Teste com outra abordagem, outro público ou outra época. Às vezes o problema não é o produto — é como você o apresenta para as pessoas erradas.
 
 ### Vale a pena investir em tráfego pago para links de afiliado?
 
-Sim, desde que você tenha pelo menos 100 cliques orgânicos com taxa de conversão conhecida. Se você não sabe quanto o produto converte organicamente, o tráfego pago vira chute.
+Sim, desde que você tenha pelo menos 100 cliques orgânicos com taxa de conversão conhecida. Sem essa referência, o tráfego pago vira chute.
 
 ## Conclusão
 
-Analisar métricas de afiliado não é complicado. Acompanhe cliques, taxa de conversão, comissão média e receita total. Identifique tendências. Descubra o que funciona e faça mais disso. Descubra o que não funciona e mude.
+Analisar métricas de afiliado não é complicado. Acompanhe cliques, taxa de conversão, comissão média e receita total. Identifique tendências, descubra o que funciona e faça mais disso.
 
-Dados não mentem. Eles mostram exatamente onde você está acertando e onde precisa melhorar. Use as métricas para guiar suas decisões, não para se paralisar com análise. O importante não é ter o dashboard mais bonito — é vender mais a cada mês.
+Dados mostram onde você acerta e onde precisa melhorar. Use as métricas para guiar decisões, não para se paralisar. O importante não é o dashboard mais bonito — é vender mais a cada mês.
 
 Se você quer se aprofundar em estratégias de conversão, veja também como [criar uma landing page que vende](/blog/como-criar-uma-landing-page-que-vende) — uma habilidade complementar que potencializa seus links de afiliado.
