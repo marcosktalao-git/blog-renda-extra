@@ -1,6 +1,6 @@
 ---
 title: "Como declarar imposto de renda sendo autônomo"
-description: "Guia completo de como declarar imposto de renda sendo autônomo ou MEI: o que declarar, como calcular o imposto devido e como evitar erros que caem na malha fina."
+description: "Guia completo de como declarar imposto de renda sendo autônomo ou MEI: o que declarar, como calcular o imposto devido e evitar erros de malha fina."
 pubDate: 2026-07-07
 updatedDate: 2026-07-07
 heroImage: '../../assets/hero-imposto-renda-autonomo.jpg'
@@ -63,7 +63,7 @@ Internet, telefone, equipamentos, material de escritório, assinaturas de softwa
 
 ### Plano de saúde
 
-Valor integral do plano de saúde (seu e de dependentes) pode ser deduzido. Essa é uma das deduções mais relevantes para quem saiu da CLT e perdeu o plano corporativo.
+Valor integral do plano de saúde (seu e de dependentes) pode ser deduzido. Essa é uma das deduções mais relevantes para quem saiu da CLT e perdeu o plano corporativo. Se você quer criar uma fonte de renda que cubra esses custos, veja [como criar planilhas e vender online](/blog/como-criar-planilhas-e-vender-online).
 
 ### Educação
 
@@ -105,7 +105,27 @@ Cada despesa dedutível não declarada é imposto pago a mais. Guarde notas fisc
 
 ### Confundir regime de tributação
 
-Autônomo sem MEI e autônomo com MEI têm regras diferentes de declaração. Entender a diferença entre rendimento da empresa e rendimento da pessoa física é essencial.
+Autônomo sem MEI e autônomo com MEI têm regras diferentes de declaração. Entender a diferença entre rendimento da empresa e rendimento da pessoa física é essencial para não pagar imposto a mais nem correr risco de malha fina.
+
+## Exemplo prático: a declaração de Marcelo
+
+Marcelo trabalhou como CLT até março de 2025 e depois pediu demissão para atuar como autônomo. Ele precisa declarar o imposto de renda em 2026 referente ao ano-calendário de 2025.
+
+Nos 3 meses como CLT, Marcelo recebeu R$ 13.500 no total. A empresa recolheu IRRF de R$ 1.200 nesse período. Ele declarou esses valores na ficha de Rendimentos Tributáveis Recebidos de Pessoa Jurídica.
+
+Nos 9 meses como autônomo, Marcelo prestou serviços para empresas (que recolheram IRRF) e para pessoas físicas (sem retenção na fonte). Ele emitiu notas fiscais que totalizaram R$ 36.000 como autônomo. As empresas recolheram R$ 2.800 de IRRF.
+
+Como Marcelo recebeu de pessoas físicas ao longo do ano sem fazer carnê-leão, ele declarou todos os rendimentos recebidos na declaração anual de ajuste.
+
+Do lado das deduções, Marcelo tinha: plano de saúde próprio de R$ 7.200 no ano, despesas com educação de R$ 3.500, INSS como contribuinte individual de R$ 4.100 e despesas profissionais (internet, equipamentos) de R$ 2.800.
+
+Com base nessas informações, a declaração ficou assim:
+
+Rendimentos tributáveis: CLT (R$ 13.500) + Autônomo (R$ 36.000) = R$ 49.500. Total de IRRF: R$ 1.200 + R$ 2.800 = R$ 4.000. Deduções: plano de saúde (R$ 7.200) + educação (R$ 3.500) + INSS (R$ 4.100) + despesas profissionais (R$ 2.800) = R$ 17.600. Base de cálculo: R$ 49.500 - R$ 17.600 = R$ 31.900.
+
+Imposto devido pela tabela progressiva: aproximadamente R$ 3.800. Como ele já teve R$ 4.000 retidos na fonte, Marcelo teve R$ 200 de imposto a restituir. Se Marcelo não tivesse declarado as deduções, a base de cálculo seria maior e ele poderia ter imposto a pagar em vez de restituição.
+
+O exemplo de Marcelo mostra a importância de organizar documentos de cada fonte de renda e manter registros de todas as despesas dedutíveis. Se ele não tivesse guardado as notas fiscais do plano de saúde e dos equipamentos, teria pago mais de R$ 1.000 de imposto adicional. Um erro simples de documentação pode custar caro na declaração anual. Para quem está pensando em fazer a transição, vale a pena ver [como organizar as finanças antes de sair da CLT](/blog/como-organizar-financas-antes-de-sair-da-clt) e o [checklist completo antes de pedir demissão da CLT](/blog/checklist-completo-antes-de-pedir-demissao-da-clt).
 
 ## Perguntas Frequentes
 
@@ -127,6 +147,6 @@ O MEI paga INSS e ISS (no DAS mensal). O imposto de renda da pessoa física é s
 
 ## Conclusão
 
-Declarar imposto de renda como autônomo exige organização, mas não é um bicho de sete cabeças. Mantenha registros de todas as receitas e despesas. Separe o dinheiro do imposto mensalmente. Declare tudo corretamente.
+Declarar imposto de renda como autônomo exige organização, mas não é um bicho de sete cabeças. Mantenha registros de todas as receitas e despesas. Separe o dinheiro do imposto mensalmente. Declare tudo corretamente e dentro do prazo.
 
-A diferença entre pagar imposto a mais ou a menos está nos detalhes: deduções corretas, classificação certa dos rendimentos e documentação organizada. Com essas práticas, a declaração deixa de ser um problema anual e vira parte da rotina financeira.
+A diferença entre pagar imposto a mais ou a menos está nos detalhes: deduções corretas, classificação certa dos rendimentos e documentação organizada. Com essas práticas, a declaração deixa de ser um problema anual e vira parte da rotina financeira. O segredo é manter a disciplina ao longo do ano com registros organizados, não apenas na época da declaração.

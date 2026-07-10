@@ -107,6 +107,38 @@ No pedido de demissão, você não pode sacar o FGTS. O valor fica retido até q
 
 Se você tem um bom relacionamento com a empresa, pode negociar uma demissão sem justa causa em comum acordo. Desde a reforma trabalhista (2017), a demissão em comum acordo permite sacar 80% do FGTS.
 
+## Erros comuns ao pedir demissão
+
+### Pedir demissão sem ter reserva de emergência
+
+Sair da CLT sem uma reserva financeira de pelo menos 6 meses de despesas é o erro mais comum e mais perigoso. Se o negócio próprio ou a renda extra não derem resultado imediato, você pode queimar suas economias em poucos meses. A reserva de emergência é o que separa uma transição planejada de uma crise financeira. Quem ainda não tem essa reserva pode começar com opções simples de [renda extra online: o que funciona de verdade](/blog/renda-extra-online-o-que-funciona-de-verdade).
+
+### Ignorar o custo do plano de saúde
+
+Muitos profissionais pedem demissão e só depois descobrem quanto custa manter um plano de saúde individual. O valor pode ser de R$ 400 a R$ 1.500 por mês dependendo da idade e do número de dependentes. Esse custo precisa estar no cálculo do quanto você precisa faturar como autônomo para manter o mesmo padrão de vida.
+
+### Não negociar a saída com a empresa
+
+Queimar pontes ao pedir demissão é um erro que custa caro no longo prazo. Uma saída bem negociada pode render um aviso prévio indenizado, manutenção do plano de saúde por mais tempo e até uma carta de recomendação. Profissionais de RH estão abertos a negociar — desde que o pedido seja feito com profissionalismo.
+
+### Subestimar o valor do FGTS e benefícios acumulados
+
+O FGTS acumulado ao longo dos anos pode representar dezenas de milhares de reais. Quem pede demissão não pode sacar esse valor. Em alguns casos, vale a pena negociar uma demissão em comum acordo para acessar parte do FGTS e usar esse recurso como capital de transição.
+
+## Exemplo prático: o cálculo de Rodrigo
+
+Rodrigo trabalhava como analista de TI em uma empresa de médio porte, ganhava R$ 5.500 líquidos mais benefícios. Ele decidiu pedir demissão para se tornar consultor autônomo.
+
+Antes de protocolar o pedido, Rodrigo fez as contas. Calculou o valor real do CLT: salário de R$ 5.500 + plano de saúde (R$ 700) + vale alimentação (R$ 600) + FGTS (R$ 440) + férias e 13 proporcionais. Total: aproximadamente R$ 7.500 por mês de valor real.
+
+Ele também calculou os custos que teria como autônomo: INSS de 20% sobre o faturamento, plano de saúde individual de R$ 650 e a ausência de férias remuneradas. Para manter o mesmo padrão de vida, ele precisaria faturar cerca de R$ 9.000 por mês como autônomo.
+
+Rodrigo negociou a saída com a empresa. Pediu demissão com aviso prévio de 30 dias trabalhados com redução de 2 horas diárias — o que lhe deu tempo para buscar os primeiros clientes. A empresa concordou em manter o plano de saúde por mais 6 meses como parte do acordo de saída.
+
+Nos primeiros 3 meses como autônomo, Rodrigo faturou uma média de R$ 4.500 — menos da metade do necessário. Mas a reserva de emergência de 8 meses que ele tinha garantiu que não passasse aperto. No sexto mês, o faturamento chegou a R$ 7.000. No nono mês, ultrapassou R$ 9.000.
+
+O planejamento de Rodrigo evitou os erros mais comuns: ele não saiu sem reserva, sabia exatamente o custo do plano de saúde e negociou a saída de forma profissional. O resultado foi uma transição financeiramente segura que levou 9 meses para se consolidar.
+
 ## Perguntas Frequentes
 
 ### Preciso cumprir aviso prévio se pedir demissão?

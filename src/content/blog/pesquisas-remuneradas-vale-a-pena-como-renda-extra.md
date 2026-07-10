@@ -105,6 +105,40 @@ Plataformas como Amazon Mechanical Turk e Appen pagam por tarefas pequenas: clas
 
 Para opções mais consistentes de renda extra, veja [como ter renda extra sendo CLT](/blog/como-ter-renda-extra-sendo-clt).
 
+## Erros comuns ao fazer pesquisas remuneradas
+
+### Acreditar que vai ganhar muito dinheiro
+
+O erro mais comum é começar esperando R$ 1.000 ou mais por mês com pesquisas. Se você quer uma renda extra com potencial maior, vale a pena considerar [como vender produto digital](/blog/como-vender-produto-digital). Quando o primeiro pagamento chega na casa de R$ 50 a R$ 100, a frustração faz a pessoa desistir. Pesquisa remunerada é complemento, não salário. Quem trata como renda principal se decepciona.
+
+### Cadastrar em apenas uma plataforma
+
+Cada site envia poucas pesquisas por semana. Quem se cadastra em um só lugar recebe 2 a 5 pesquisas por semana e leva meses para acumular o mínimo de saque. Cadastre-se em 5 a 8 plataformas para ter oferta constante e acelerar os ganhos.
+
+### Preencher perfil falso para receber mais pesquisas
+
+Mentir no perfil demográfico para se qualificar em mais pesquisas parece inteligente, mas as plataformas cruzam dados. Quando identificam inconsistências, a conta é banida e você perde o saldo acumulado. Perfil verdadeiro e completo é o caminho certo.
+
+### Pagar para participar
+
+Nenhum site legítimo cobra taxa de cadastro, assinatura ou pagamento para liberar pesquisas. Se pedirem dinheiro antes de você ganhar, é golpe. Sites confiáveis têm CNPJ visível e reputação verificável em reclamações.
+
+## Exemplo prático: a rotina de Carla com pesquisas
+
+Carla é assistente administrativa e começou a fazer pesquisas remuneradas para complementar a renda. Ela não tinha pretensão de ganhar muito — queria apenas um dinheiro extra para pagar o delivery do mês.
+
+Ela se cadastrou em 6 plataformas: Painel Remunerado, GlobalTestMarket, MindMiners, Google Opinion Rewards, MeuPainelDePesquisas e uma plataforma internacional, a Swagbucks.
+
+Nos primeiros 15 dias, Carla recebeu poucas pesquisas — cerca de 2 a 3 por semana. Ela quase desistiu, mas manteve a rotina de abrir o e-mail e o aplicativo todo dia para não perder as oportunidades.
+
+No primeiro mês completo, ela respondeu 18 pesquisas. O valor total foi de R$ 62. Não era muito, mas pagou uma conta de luz. No segundo mês, com o perfil mais completo e respondendo mais rápido, ela fez 25 pesquisas e acumulou R$ 91.
+
+Depois de 4 meses, Carla já estava cadastrada em 8 plataformas e recebia em média 8 a 10 pesquisas por semana. Ela passou a selecionar as que pagavam melhor, ignorando as de baixo valor hora. No sexto mês, ela atingiu R$ 185 em um único mês.
+
+Carla não ficou rica com pesquisas. Mas com R$ 100 a R$ 180 extras por mês, ela conseguiu pagar pequenas contas e ainda guardar um valor para emergências. A rotina dela era simples: 20 a 30 minutos por dia, espalhados ao longo do dia, respondendo pesquisas no celular durante o ônibus ou no intervalo do almoço.
+
+O segredo do resultado de Carla não foi sorte — foi cadastro em múltiplas plataformas, constância e paciência para acumular os ganhos ao longo dos meses.
+
 ## Perguntas Frequentes
 
 ### Pesquisas remuneradas são golpe?
