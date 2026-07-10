@@ -4,7 +4,7 @@ description: "Guia passo a passo para fazer o lançamento do seu primeiro produt
 pubDate: 2026-07-07
 updatedDate: 2026-07-07
 heroImage: '../../assets/hero-lancamento-produto-digital.jpg'
-tags: ["Sair da CLT"]
+tags: ["Produto Digital"]
 keywords: ["lançamento de produto digital", "lançar produto digital", "pré-lançamento produto digital", "estratégia de lançamento digital", "como lançar curso online"]
 affiliate_cta:
   title: "Crie e lance seu primeiro produto digital"

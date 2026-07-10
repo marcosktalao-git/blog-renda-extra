@@ -1,6 +1,6 @@
 ---
 title: "Como criar uma lista de e-mail do zero para afiliados"
-description: "Aprenda a criar sua lista de e-mail do zero para divulgar produtos como afiliado. Ferramentas gratuitas, como conseguir os primeiros inscritos e estratégias de conversão."
+description: "Crie sua lista de e-mail do zero para divulgar produtos como afiliado. Ferramentas gratuitas, isca digital e estratégias para converter inscritos em vendas."
 pubDate: 2026-07-07
 updatedDate: 2026-07-07
 heroImage: '../../assets/hero-lista-email.jpg'
@@ -107,6 +107,58 @@ Para a lista de finanças: produtos sobre controle de gastos, planilhas financei
 
 Depois de 3 a 5 e-mails de valor. Depois de 2 a 3 semanas de relacionamento. A venda no e-mail é conquistada, não imposta. Venda quando a lista confiar em você, não no primeiro contato.
 
+Se você está começando no marketing de afiliados, veja o guia completo de [marketing de afiliados para iniciantes](/blog/marketing-afiliados-para-iniciantes) para entender como o e-mail marketing se encaixa na estratégia geral.
+
+## Erros comuns ao construir uma lista de e-mail para afiliados
+
+Construir lista de e-mail parece simples, mas pequenos erros podem comprometer todo o trabalho.
+
+### Erro 1: isca digital fraca ou genérica
+
+O afiliado cria uma isca como "10 dicas de finanças" — um conteúdo raso que não resolve nada específico. A pessoa baixa, não se impressiona e já marca o e-mail como spam.
+
+A isca precisa resolver um problema imediato e específico. "Checklist de 5 passos para reduzir gastos do mês em 30 minutos" é muito mais atrativo que "Dicas de finanças".
+
+### Erro 2: não enviar e-mails com frequência
+
+O afiliado captura 100 e-mails, envia a sequência de boas-vindas e depois fica 2 meses sem enviar nada. Quando volta, metade dos contatos já marcou como spam ou cancelou.
+
+Defina uma frequência mínima: um e-mail por semana. Coloque na agenda. Trate a lista como um compromisso com seu público.
+
+### Erro 3: vender antes de entregar valor
+
+O primeiro e-mail já tem link de afiliado. O segundo também. A pessoa se inscreveu para aprender e está recebendo apenas ofertas.
+
+A regra dos 80/20 vale para e-mail: 80% de conteúdo de valor, 20% de promoção. Construa confiança antes de pedir a venda.
+
+### Erro 4: não segmentar a lista
+
+Enviar a mesma mensagem para todos os inscritos, independentemente do interesse. Quem baixou uma planilha de orçamento recebe a mesma oferta de curso de investimentos.
+
+Use as tags da ferramenta de e-mail marketing para separar os contatos por interesse. Uma lista segmentada converte 2 a 3 vezes mais.
+
+Evitar esses erros é o primeiro passo. Para um panorama completo dos deslizes mais comuns de quem está começando, veja [erros que todo afiliado iniciante comete](/blog/erros-que-todo-afiliado-iniciante-comete) — muitos deles têm relação direta com a construção da lista de e-mail.
+
+## Exemplo prático: como Fernando construiu uma lista de 340 e-mails e vendeu como afiliado em 45 dias
+
+Fernando é professor de matemática e queria entrar no marketing de afiliados. Escolheu o nicho de "educação financeira para professores".
+
+### O que Fernando fez
+
+Criou uma isca digital: "Planilha de orçamento para professor que ganha por aula" — uma planilha simples que ajudava professores a organizar a renda variável de aulas particulares.
+
+Publicou 3 artigos no blog sobre finanças para professores, cada um com um formulário de captura no final. Em 30 dias, tinha 120 e-mails. Em 45 dias, 340.
+
+### A sequência de boas-vindas
+
+E-mail 1: entrega da planilha com instruções. E-mail 2: 3 erros financeiros que professores cometem (conteúdo). E-mail 3: a história de como Fernando organizou as próprias contas. E-mail 4: recomendações de produtos de educação financeira.
+
+### O resultado
+
+Fernando enviou a recomendação para 340 pessoas. A taxa de abertura foi de 38%. A taxa de clique foi de 4,2%. Gerou 9 vendas de produtos afiliados, com comissão total de R$ 720.
+
+"O que funcionou foi tratar a lista como amigos, não como números. Eu escrevia como se estivesse falando com outro professor. A linguagem pessoal fez toda a diferença na taxa de abertura."
+
 ## Perguntas Frequentes
 
 ### Quantos e-mails preciso ter na lista para começar a vender?
@@ -124,6 +176,14 @@ Não. Mailchimp, ConvertKit e Brevo têm planos gratuitos para iniciantes. Você
 ### Qual a taxa de conversão média de e-mail marketing para afiliados?
 
 A taxa de clique média é de 2% a 5% sobre os abertos. A taxa de conversão (compra sobre clique) varia de 1% a 5% dependendo do produto e do nível de confiança da lista.
+
+### Como evitar que meus e-mails caiam no spam?
+
+Use uma ferramenta de e-mail marketing profissional (Mailchimp, ConvertKit, Brevo), nunca compre listas prontas, mantenha frequência regular (semanal ou quinzenal), evite links excessivos e sempre peça confirmação de inscrição (double opt-in).
+
+### Vale a pena criar uma newsletter paga em vez de lista gratuita para afiliados?
+
+Depende do seu objetivo. A lista gratuita é melhor para divulgar produtos de afiliados porque você não cria barreira de entrada. A newsletter paga gera receita direta, mas o volume de inscritos é menor. Se quiser explorar os dois modelos, veja [como criar uma newsletter paga do zero](/blog/como-criar-uma-newsletter-paga-do-zero) para entender as diferenças e como começar.
 
 ## Conclusão
 
