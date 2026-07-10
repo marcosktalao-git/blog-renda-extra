@@ -101,6 +101,50 @@ Se a versão simples gerar interesse e vendas, aí você investe mais tempo e re
 
 Para ideias de como começar, veja o guia completo de [renda extra online: o que funciona de verdade](/blog/renda-extra-online-o-que-funciona-de-verdade).
 
+## Erros comuns de quem empreende depois dos 40
+
+A maturidade ajuda a evitar muitos erros jovens, mas alguns são típicos de quem começa tarde.
+
+### Erro 1: querer recuperar o tempo perdido
+
+Quem começa a empreender depois dos 40 às vezes tenta compensar os anos de CLT fazendo tudo ao mesmo tempo. Cria site, faz estoque, monta equipe, investe em anúncio — tudo na primeira semana. Esse ímpeto queima energia e dinheiro rápido.
+
+O caminho certo é o oposto: vá devagar. Um passo de cada vez. Teste uma ideia, veja se funciona, depois invista no próximo passo.
+
+### Erro 2: subestimar o custo da energia física e mental
+
+Aos 20, você vira noite trabalhando e no dia seguinte está bem. Aos 40, o corpo cobra. Empreender exige horas extras, especialmente no começo. Ignorar o desgaste leva à exaustão e a decisões ruins.
+
+Planeje seu negócio para funcionar dentro da sua capacidade real de energia. Negócios que dependem exclusivamente do seu esforço físico tendem a ser insustentáveis.
+
+### Erro 3: não se atualizar minimamente no digital
+
+Você não precisa virar expert em tecnologia, mas ignorar completamente o digital é erro estratégico. Ter um WhatsApp Business, um perfil no Instagram ou LinkedIn e saber fazer uma videoconferência já cobre 90% das necessidades básicas.
+
+### Erro 4: não pedir ajuda com medo de parecer vulnerável
+
+Profissionais experientes têm orgulho do que sabem. Pedir ajuda sobre algo que não dominam — finanças, marketing, tecnologia — parece um passo atrás. Mas empreender exige humildade para aprender o que não se sabe.
+
+## Exemplo prático: como a Regina saiu da CLT aos 44 anos
+
+Regina trabalhou 22 anos como assistente administrativa em uma empresa de logística. Aos 43, começou a sentir que não aguentava mais a rotina de 8 horas diárias, trânsito e chefe.
+
+Ela sempre teve talento para organizar coisas — desde a agenda da família até eventos da empresa. Várias colegas diziam: "Você devia dar consultoria de organização".
+
+No ano seguinte, ela decidiu testar. Criou um perfil no Instagram chamado "Organiza Regina" e publicou 3 posts por semana com dicas de organização doméstica e de escritório. Não investiu em anúncio. Usou apenas o celular e a vontade de testar.
+
+Em 45 dias, tinha 320 seguidores e 5 mensagens de pessoas perguntando se ela fazia consultoria presencial. Ela atendeu as 5 gratuitamente em troca de depoimento e fotos do antes e depois.
+
+Com os depoimentos em mãos, ela criou um serviço simples: consultoria de organização residencial em 4 horas (R$ 200) e pacote de 12 horas (R$ 500). Divulgou apenas no Instagram e no WhatsApp.
+
+No primeiro mês como renda extra, faturou R$ 900. No terceiro, R$ 1.800. No sexto, R$ 2.800 — enquanto ainda trabalhava CLT.
+
+Aos 44 anos e 3 meses, ela pediu demissão. Hoje, 8 meses depois, a Organiza Regina fatura entre R$ 4.000 e R$ 6.000 por mês. Ela atende de 8h às 14h, escolhe os clientes e não trabalha fins de semana.
+
+Regina não largou tudo. Ela construiu a ponte enquanto ainda estava no emprego, e só atravessou quando a ponte estava firme.
+
+Se você quer seguir o mesmo caminho, veja o guia de [como montar segunda renda antes de pedir demissão](/blog/como-montar-segunda-renda-antes-de-pedir-demissao) e entenda também os [direitos do aviso prévio antes de sair da CLT](/blog/aviso-previo-e-direitos-o-que-saber-antes-de-sair-da-clt) para planejar cada detalhe da transição.
+
 ## Perguntas Frequentes
 
 ### Preciso largar o emprego para empreender depois dos 40?
@@ -125,4 +169,4 @@ Empreender depois dos 40 não é tarde demais. É o momento certo — desde que 
 
 O que falta não é capacidade. É um plano. Comece avaliando seu momento, listando suas habilidades e testando uma ideia simples ao lado do emprego atual. Quando o negócio mostrar que funciona, aí você decide o próximo passo.
 
-Se você quer começar a construir sua renda extra ainda hoje, o guia completo de transição de carreira mostra o passo a passo para sair da CLT com segurança. Não é sobre pular — é sobre planejar cada degrau.
+Para quem quer manter a segurança financeira enquanto constrói o negócio, veja também [como ter renda extra sendo CLT](/blog/como-ter-renda-extra-sendo-clt) — um guia prático para quem não pode abrir mão do salário fixo enquanto testa o empreendedorismo.

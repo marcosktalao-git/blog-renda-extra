@@ -111,6 +111,46 @@ O objetivo é renda extra com prazer. Se o prazer acabar, a renda extra não com
 
 Para entender melhor como equilibrar CLT e renda extra, veja [como ter renda extra sendo CLT](/blog/como-ter-renda-extra-sendo-clt).
 
+## Erros comuns ao monetizar o hobby
+
+Quem começa a ganhar dinheiro com hobby costuma tropeçar nos mesmos pontos. Conhecer esses erros antecipadamente ajuda a evitá-los.
+
+### Erro 1: precificar apenas pelo custo material
+
+Muitos olham para o valor da matéria-prima e esquecem de incluir o tempo, o conhecimento e o valor percebido. Uma peça de artesanato que custou R$ 5 em material pode e deve ser vendida por R$ 50 se o resultado for único e bem acabado. Precificar só pelo custo é o caminho mais curto para se frustrar.
+
+### Erro 2: atender toda demanda que aparece
+
+Quando os primeiros pedidos chegam, a tendência é aceitar todos. Isso leva à exaustão e ao ódio pelo hobby. Aprender a recusar pedidos que não cabem na sua rotina ou no seu estilo é essencial para manter o prazer.
+
+### Erro 3: não separar as finanças do hobby
+
+O dinheiro que entra com a venda do bolo, da foto ou do curso precisa ser separado do dinheiro da conta pessoal. Misturar as duas coisas impede você de saber se está realmente ganhando ou apenas trocando dinheiro de bolso.
+
+### Erro 4: pular a fase de teste
+
+Criar um site, fazer estoque e investir em material antes de validar a demanda é o erro mais caro. Teste com uma encomenda, um post, uma oferta simples. Se vender, aí sim invista.
+
+## Exemplo prático: como o Carlos transformou a fotografia em renda extra sem perder o prazer
+
+Carlos é analista financeiro durante o dia. Nos fins de semana, sempre gostou de fotografar a cidade — ruas, arquitetura, paisagens urbanas. Postava as fotos no Instagram por hobby, sem pensar em dinheiro.
+
+Amigos começaram a pedir para usar as fotos como papel de parede ou print para quadros. Um conhecido sugeriu que ele vendesse as imagens em banco de imagens.
+
+Carlos decidiu testar sem investir nada. Escolheu três plataformas gratuitas de banco de imagens (Unsplash para visibilidade e Shutterstock para venda) e enviou 30 fotos que já tinha no arquivo. O processo levou cerca de 2 horas.
+
+No primeiro mês, ele faturou R$ 47 em vendas de fotos. No segundo, R$ 82. No terceiro, R$ 68. Não era muito, mas era dinheiro vindo de algo que ele já fazia por prazer.
+
+Animado, ele quase cometeu o erro de criar um estúdio em casa, comprar equipamento novo e aceitar ensaios marcados. Mas lembrou da regra: monetizar o que já produz naturalmente.
+
+Em vez de virar fotógrafo de eventos, Carlos optou por um caminho híbrido. Continuou fotografando a cidade nos fins de semana, mas passou a fotografar de forma mais intencional: enquadrando temas com potencial comercial (gastronomia de rua, comércios locais, paisagens urbanas clean).
+
+Depois de 6 meses, ele tem 450 fotos em banco de imagens e fatura entre R$ 200 e R$ 400 por mês. Tudo isso sem aceitar um único ensaio marcado, sem cliente para atender, sem prazo para entregar.
+
+O hobby continua sendo hobby. A diferença é que agora ele também paga alguns boletos.
+
+Para mais ideias de como ganhar dinheiro com o que você já sabe fazer, veja [como ganhar dinheiro com o que você já sabe fazer](/blog/como-ganhar-dinheiro-com-o-que-voce-ja-sabe-fazer). E se você gosta de ensinar, considere [dar aulas particulares online](/blog/renda-extra-dando-aulas-particulares-online) como outra forma de monetizar seu conhecimento.
+
 ## Perguntas Frequentes
 
 ### Todo hobby pode virar renda extra?
@@ -136,3 +176,5 @@ Transformar hobby em renda extra é possível sem destruir o prazer. O segredo �
 Teste a demanda antes de investir. Comece pequeno. Mantenha o ritmo que não atrapalhe o prazer. Se em algum momento a renda extra competir com o que você ama, é hora de recuar ou mudar de modelo.
 
 O dinheiro extra é o bônus. O que importa é continuar fazendo o que você gosta.
+
+Se você quer explorar outras formas de monetizar seu conhecimento sem virar refém do hobby, veja também o guia de [como criar um ebook do zero e vender pela internet](/blog/como-criar-um-ebook-do-zero-e-vender-pela-internet) — um modelo que transforma seu hobby em ativo digital sem contato direto com clientes.

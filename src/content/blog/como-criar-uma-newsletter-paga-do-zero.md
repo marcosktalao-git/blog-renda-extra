@@ -128,6 +128,50 @@ Publique um artigo no blog que seja complementar ao que você entrega na newslet
 
 Ofereça preço vitalício para os 10 primeiros assinantes (pagam uma vez e recebem para sempre). Isso cria urgência e forma um grupo inicial fiel que ajuda a divulgar.
 
+## Erros comuns ao criar uma newsletter paga
+
+Mesmo com conteúdo de qualidade, alguns erros podem sabotar sua newsletter antes de ela engrenar.
+
+### Erro 1: não definir um nicho específico
+
+Quem tenta falar de "finanças" para todo mundo compete com milhares de conteúdos gratuitos. Quem fala de "finanças para CLT que quer investir com pouco" tem um público menor, mas com mais disposição a pagar. Nicho amplo dilui o valor percebido.
+
+### Erro 2: conteúdo raso nas primeiras edições
+
+As primeiras edições definem se o assinante renova ou cancela. Se entregar o mesmo que se encontra de graça, a desconfiança aparece. Invista mais tempo nas primeiras 4 edições para criar valor percebido.
+
+### Erro 3: frequência irregular
+
+Uma newsletter que promete ser semanal e passa 15 dias sem enviar perde credibilidade. Se não conseguir manter a frequência, reduza para quinzenal e seja consistente.
+
+### Erro 4: não pedir feedback
+
+Envie uma pesquisa simples no primeiro mês: o que estão achando, o que querem ver, o que pode melhorar. O feedback orienta o conteúdo e reduz cancelamentos.
+
+## Exemplo prático: como o André construiu 150 assinantes pagos em 90 dias
+
+André trabalhava como analista de RH em uma empresa de médio porte. Durante a pandemia, percebeu que muitos colegas tinham dificuldade com ansiedade e produtividade no home office. Ele estudava o tema por hobby e começou a compartilhar dicas em um grupo de WhatsApp.
+
+Várias pessoas pediram mais conteúdo. Foi quando ele decidiu criar uma newsletter sobre saúde mental e produtividade para profissionais em home office.
+
+André não tinha seguidores nem blog. Ele fez o seguinte:
+
+1. Escolheu o Substack — gratuito e integrado. Criou a página em 30 minutos.
+
+2. Publicou 4 edições gratuitas durante um mês, compartilhando em grupos de WhatsApp e no LinkedIn. Conseguiu 47 inscritos.
+
+3. Na quarta edição, anunciou a versão paga (R$ 14,90/mês) com conteúdo exclusivo: roteiros de gestão de ansiedade e análises de ferramentas de produtividade.
+
+4. Ofereceu preço vitalício de R$ 97 para os 10 primeiros assinantes. 7 compraram no primeiro dia.
+
+5. Publicou a primeira edição paga com um roteiro prático de organização semanal. Assinantes começaram a compartilhar.
+
+Em 90 dias, André tinha 150 assinantes pagos (50 no plano mensal e 100 no anual) — receita mensal de aproximadamente R$ 1.550.
+
+Ele não precisou de edição de vídeo, design ou tráfego pago. Só escrever, publicar com consistência e ouvir o que os assinantes queriam.
+
+Para criar uma página de vendas que converta visitantes em assinantes, veja [como criar uma landing page que vende](/blog/como-criar-uma-landing-page-que-vende). E para definir o valor certo da assinatura, veja [como precificar seu produto digital](/blog/como-precificar-seu-produto-digital).
+
 ## Perguntas Frequentes
 
 ### Preciso de muitos seguidores para ter assinantes pagos?
@@ -153,3 +197,5 @@ Newsletter paga é o produto digital mais simples de criar para quem sabe escrev
 O diferencial não é ter um produto perfeito — é começar e melhorar com o feedback dos assinantes.
 
 Se você quer dar o primeiro passo, abra uma conta gratuita na plataforma de sua preferência, escreva a primeira edição e publique. O resto do conteúdo você cria ao longo do caminho.
+
+Para quem quer construir uma audiência antes de lançar a newsletter, veja também [como criar uma lista de e-mail do zero para afiliados](/blog/como-criar-uma-lista-de-e-mail-do-zero-para-afiliados) — o processo de captação de assinantes funciona para qualquer produto digital, inclusive newsletters pagas.
