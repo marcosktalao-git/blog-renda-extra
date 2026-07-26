@@ -11,10 +11,11 @@ import HeaderLink from './HeaderLink.astro';
 			href="/"
 			class="font-serif text-lg font-semibold tracking-tight text-fg no-underline transition-colors hover:text-accent sm:text-xl"
 		>
-			{SITE_TITLE}
+			<span class="sm:hidden">Renda Extra</span>
+			<span class="hidden sm:inline">{SITE_TITLE}</span>
 		</a>
 
-		<div class="flex items-center gap-1 sm:gap-2">
+		<div class="flex shrink-0 items-center gap-0.5 sm:gap-2">
 			{
 				NAV_LINKS.map(({ href, label }) => (
 					<HeaderLink href={href}>{label}</HeaderLink>
