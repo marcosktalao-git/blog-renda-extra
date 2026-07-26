@@ -12,6 +12,7 @@ keywords:
   - renda online para iniciantes
   - produto digital
   - vender ebook
+  - como criar produto digital do zero
 ---
 
 Produto digital é qualquer coisa que você entrega pela internet: ebook, planilha, curso gravado, checklist, pack de templates. Você cria uma vez e vende infinitas vezes — sem estoque, sem frete.

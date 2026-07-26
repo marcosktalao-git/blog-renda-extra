@@ -20,7 +20,7 @@ Escolher errado pode custar caro — em impostos pagos a mais ou em problemas co
 
 O Microempreendedor Individual é uma categoria jurídica criada para formalizar trabalhadores autônomos de forma simples e barata. A abertura é gratuita, feita em minutos pelo portal gov.br, e o pagamento mensal é um valor fixo — o DAS MEI — que cobre INSS, ICMS ou ISS dependendo da atividade.
 
-Em 2024, o valor do DAS MEI para prestadores de serviço ficou em torno de R$ 71 por mês. Esse pagamento garante acesso a benefícios previdenciários como aposentadoria por tempo de contribuição, auxílio-doença e salário-maternidade.
+Em 2026, o valor do DAS MEI para prestadores de serviço varia de R$ 82,05 a R$ 87,05 por mês, dependendo da atividade. Esse pagamento garante acesso a benefícios previdenciários como aposentadoria por tempo de contribuição, auxílio-doença e salário-maternidade.
 
 O limite de faturamento anual do MEI é de R$ 81 mil — o equivalente a R$ 6.750 por mês. Quem ultrapassa esse limite precisa migrar para outro regime tributário.
 

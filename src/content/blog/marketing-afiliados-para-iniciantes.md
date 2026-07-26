@@ -12,6 +12,7 @@ keywords:
   - renda extra
   - ganhar dinheiro em casa
   - hotmart afiliado
+  - kiwify afiliado
 affiliate_cta:
   title: 'Curso de Afiliados do Zero'
   description: 'Aprenda a escolher produtos lucrativos e criar conteúdo que vende — mesmo sem audiência.'

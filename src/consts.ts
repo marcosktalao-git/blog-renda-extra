@@ -4,7 +4,7 @@
 export const SITE_TITLE = 'Renda Extra na Prática';
 export const SITE_DESCRIPTION =
 	'Dicas diretas para CLTs que querem uma segunda renda: renda extra, produto digital, afiliados e como sair da CLT — sem aparecer e sem investir muito.';
-export const SITE_AUTHOR = 'Renda Extra na Prática';
+export const SITE_AUTHOR = 'Marcos Oliveira';
 
 export const NAV_LINKS = [
 	{ href: '/', label: 'Home' },

@@ -91,7 +91,7 @@ A parte chata mas necessária. Erros aqui custam dinheiro e dor de cabeça.
 
 ### Já defini entre MEI e autônomo?
 
-MEI tem limite de faturamento (R$ 81 mil por ano em 2024, valor reajustado anualmente) e só permite algumas atividades. Se você vai prestar serviços intelectuais ou tem faturamento maior, autônomo ou outra categoria pode ser melhor.
+MEI tem limite de faturamento (R$ 81 mil por ano em 2026, valor que se mantém desde 2018) e só permite algumas atividades. Se você vai prestar serviços intelectuais ou tem faturamento maior, autônomo ou outra categoria pode ser melhor.
 
 Veja a comparação completa em [MEI ou autônomo: o que escolher quando sair da CLT](/blog/mei-ou-autonomo-o-que-escolher-quando-sair-da-clt).
 
