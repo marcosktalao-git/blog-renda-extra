@@ -14,7 +14,7 @@ export default defineConfig({
   integrations: [mdx(), sitemap()],
 
   build: {
-    inlineStylesheets: 'auto',
+    inlineStylesheets: 'always',
   },
 
   vite: {
