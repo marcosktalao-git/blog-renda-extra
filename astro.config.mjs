@@ -13,6 +13,10 @@ export default defineConfig({
 
   integrations: [mdx(), sitemap()],
 
+  build: {
+    inlineStylesheets: 'auto',
+  },
+
   vite: {
     plugins: [tailwindcss()],
   },
